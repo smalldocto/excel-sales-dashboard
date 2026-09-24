@@ -1,0 +1,1001 @@
+Order ID,Order Date,Customer,Country,Region,Product,Category,Quantity,Unit Price,Discount,Sales,Cost,Profit,Payment Method,Sales Channel
+ORD-100001,13/04/2025,Sophia Anderson,Germany,Europe,Office Chair,Furniture,1,282.59,0.1,254.33,170,84.33,Credit Card,Marketplace
+ORD-100002,10/04/2025,Jamie Johnson,India,Asia,Bookshelf,Furniture,3,198.33,0,594.99,330,264.99,Credit Card,Online
+ORD-100003,10/11/2025,Drew Lewis,Kenya,Africa,Office Chair,Furniture,2,283.12,0,566.24,340,226.24,PayPal,Online
+ORD-100004,24/06/2025,Casey Brown,Kenya,Africa,Headphones,Electronics,2,121.28,0.2,194.05,120,74.05,Bank Transfer,Online
+ORD-100005,01/10/2025,Jordan Davis,Germany,Europe,Laptop,Electronics,6,841.16,0.1,4542.26,3600,942.26,Credit Card,Retail Store
+ORD-100006,21/09/2025,Jordan Hall,Australia,Oceania,Headphones,Electronics,5,124.34,0,621.7,300,321.7,Debit Card,Online
+ORD-100007,06/11/2025,Morgan Hall,Nigeria,Africa,Printer,Electronics,4,240.33,0,961.32,600,361.32,Bank Transfer,Online
+ORD-100008,03/08/2025,Emma Wilson,Germany,Europe,Laptop,Electronics,6,890.08,0.1,4806.43,3600,1206.43,Debit Card,Marketplace
+ORD-100009,07/07/2025,Avery Moore,Germany,Europe,Office Chair,Furniture,1,263.92,0.1,237.53,170,67.53,Bank Transfer,Online
+ORD-100010,04/03/2025,Casey Martin,UK,Europe,Headphones,Electronics,3,126.03,0.1,340.28,180,160.28,Credit Card,Online
+ORD-100011,15/05/2025,Casey Brown,USA,North America,Bookshelf,Furniture,2,189.66,0,379.32,220,159.32,Debit Card,Online
+ORD-100012,04/02/2025,Noah Anderson,USA,North America,Headphones,Electronics,1,125.87,0.1,113.28,60,53.28,Credit Card,Retail Store
+ORD-100013,12/12/2025,Daniel Walker,Canada,North America,Keyboard,Electronics,1,77.46,0,77.46,40,37.46,Debit Card,Marketplace
+ORD-100014,19/08/2025,Sophia Taylor,Nigeria,Africa,Printer,Electronics,4,230.4,0,921.6,600,321.6,PayPal,Retail Store
+ORD-100015,03/03/2025,Sam Martin,USA,North America,Office Chair,Furniture,4,267.92,0.1,964.51,680,284.51,Credit Card,Online
+ORD-100016,09/07/2025,Cameron Brown,USA,North America,Laptop,Electronics,1,897.89,0,897.89,600,297.89,Credit Card,Online
+ORD-100017,17/05/2025,Cameron Davis,Kenya,Africa,Office Chair,Furniture,3,269.98,0,809.94,510,299.94,Credit Card,Marketplace
+ORD-100018,21/02/2025,Olivia Clark,Germany,Europe,Desk,Furniture,3,315.01,0.1,850.53,600,250.53,Debit Card,Online
+ORD-100019,23/02/2025,Chris Martin,Australia,Oceania,Office Chair,Furniture,2,285.59,0.05,542.62,340,202.62,PayPal,Online
+ORD-100020,20/11/2025,Casey Davis,Australia,Oceania,Headphones,Electronics,2,126.53,0,253.06,120,133.06,PayPal,Online
+ORD-100021,28/08/2025,Taylor Davis,India,Asia,Laptop,Electronics,1,884.39,0.05,840.17,600,240.17,Credit Card,Online
+ORD-100022,12/12/2025,Alex Thomas,UK,Europe,Printer,Electronics,1,233.44,0.05,221.77,150,71.77,Debit Card,Marketplace
+ORD-100023,09/05/2025,Drew Brown,UK,Europe,Keyboard,Electronics,3,76.53,0,229.59,120,109.59,Credit Card,Online
+ORD-100024,22/04/2025,Chris Wilson,USA,North America,Keyboard,Electronics,2,72.16,0,144.32,80,64.32,PayPal,Retail Store
+ORD-100025,09/01/2025,Alex Thomas,USA,North America,Headphones,Electronics,3,127.36,0.1,343.87,180,163.87,PayPal,Marketplace
+ORD-100026,14/04/2025,Ethan Hall,Germany,Europe,Desk,Furniture,1,336.78,0,336.78,200,136.78,Debit Card,Retail Store
+ORD-100027,27/07/2025,Liam Davis,Nigeria,Africa,Laptop,Electronics,1,862.08,0,862.08,600,262.08,Credit Card,Retail Store
+ORD-100028,14/07/2025,Noah Hall,USA,North America,Bookshelf,Furniture,3,189.58,0,568.74,330,238.74,PayPal,Online
+ORD-100029,21/09/2025,Alex Wilson,UK,Europe,Headphones,Electronics,4,123,0.05,467.4,240,227.4,Credit Card,Online
+ORD-100030,04/01/2025,Noah Wilson,UK,Europe,Bookshelf,Furniture,3,203.73,0,611.19,330,281.19,PayPal,Retail Store
+ORD-100031,06/02/2025,Alex Davis,India,Asia,Office Chair,Furniture,2,295.7,0.15,502.69,340,162.69,Credit Card,Online
+ORD-100032,10/06/2025,Taylor Thomas,India,Asia,Headphones,Electronics,1,128.6,0.05,122.17,60,62.17,Credit Card,Online
+ORD-100033,08/12/2025,Riley Smith,Australia,Oceania,Monitor,Electronics,1,416.61,0,416.61,280,136.61,Credit Card,Retail Store
+ORD-100034,08/02/2025,Mia Lewis,Nigeria,Africa,Monitor,Electronics,4,446.34,0.1,1606.82,1120,486.82,Debit Card,Online
+ORD-100035,22/06/2025,Sophia Anderson,Germany,Europe,Laptop,Electronics,1,813.11,0,813.11,600,213.11,Credit Card,Retail Store
+ORD-100036,15/10/2025,Olivia Davis,Australia,Oceania,Printer,Electronics,1,244.93,0.05,232.68,150,82.68,Credit Card,Online
+ORD-100037,11/04/2025,Morgan Taylor,USA,North America,Bookshelf,Furniture,4,195.89,0,783.56,440,343.56,Credit Card,Online
+ORD-100038,16/02/2025,Drew Hall,UK,Europe,Printer,Electronics,1,258.25,0,258.25,150,108.25,Credit Card,Online
+ORD-100039,02/10/2025,Cameron Lewis,Germany,Europe,Monitor,Electronics,1,451.56,0,451.56,280,171.56,Debit Card,Online
+ORD-100040,01/01/2025,Mia Wilson,Australia,Oceania,Monitor,Electronics,1,408.98,0,408.98,280,128.98,Bank Transfer,Online
+ORD-100041,11/07/2025,Liam Brown,Australia,Oceania,Office Chair,Furniture,3,270.11,0,810.33,510,300.33,Bank Transfer,Online
+ORD-100042,08/08/2025,Chris Martin,Nigeria,Africa,Printer,Electronics,1,249.95,0.1,224.96,150,74.96,Bank Transfer,Marketplace
+ORD-100043,10/04/2025,Casey Davis,USA,North America,Desk,Furniture,2,334.77,0,669.54,400,269.54,Credit Card,Online
+ORD-100044,07/09/2025,Liam Thomas,UK,Europe,Monitor,Electronics,2,436.34,0.05,829.05,560,269.05,PayPal,Marketplace
+ORD-100045,09/06/2025,Alex Walker,UK,Europe,Keyboard,Electronics,3,77.52,0,232.56,120,112.56,Debit Card,Marketplace
+ORD-100046,19/11/2025,Chris Young,USA,North America,Laptop,Electronics,3,837.77,0,2513.31,1800,713.31,Credit Card,Online
+ORD-100047,30/08/2025,Jordan Brown,UK,Europe,Printer,Electronics,1,254.36,0,254.36,150,104.36,Credit Card,Online
+ORD-100048,24/04/2025,Morgan Martin,Nigeria,Africa,Headphones,Electronics,4,126.53,0.1,455.51,240,215.51,Debit Card,Retail Store
+ORD-100049,15/08/2025,Casey Lewis,USA,North America,Headphones,Electronics,2,126.11,0,252.22,120,132.22,Debit Card,Retail Store
+ORD-100050,05/08/2025,Mia Clark,UK,Europe,Laptop,Electronics,2,862.37,0.05,1638.5,1200,438.5,Credit Card,Online
+ORD-100051,21/08/2025,Daniel Brown,UK,Europe,Keyboard,Electronics,2,77.85,0.15,132.34,80,52.34,Debit Card,Online
+ORD-100052,10/03/2025,Liam Moore,UK,Europe,Keyboard,Electronics,2,78.59,0.05,149.32,80,69.32,Credit Card,Marketplace
+ORD-100053,05/07/2025,Sam Clark,Australia,Oceania,Desk,Furniture,2,346.26,0,692.52,400,292.52,Credit Card,Online
+ORD-100054,15/03/2025,Riley Martin,Canada,North America,Keyboard,Electronics,4,75.4,0.1,271.44,160,111.44,Debit Card,Marketplace
+ORD-100055,13/07/2025,Alex Taylor,Nigeria,Africa,Office Chair,Furniture,1,274.63,0.2,219.7,170,49.7,Bank Transfer,Marketplace
+ORD-100056,05/08/2025,Chris Taylor,Nigeria,Africa,Keyboard,Electronics,2,75.95,0.1,136.71,80,56.71,Bank Transfer,Online
+ORD-100057,19/01/2025,Daniel Lewis,Australia,Oceania,Desk,Furniture,2,328.55,0,657.1,400,257.1,Bank Transfer,Marketplace
+ORD-100058,01/01/2025,Alex Taylor,UK,Europe,Office Chair,Furniture,1,278.33,0,278.33,170,108.33,Debit Card,Marketplace
+ORD-100059,22/06/2025,Sam Lewis,India,Asia,Office Chair,Furniture,1,280.12,0.15,238.1,170,68.1,Credit Card,Retail Store
+ORD-100060,20/01/2025,Alex Wilson,USA,North America,Monitor,Electronics,1,415.08,0,415.08,280,135.08,Bank Transfer,Online
+ORD-100061,12/01/2025,Riley Martin,Canada,North America,Bookshelf,Furniture,1,183.14,0,183.14,110,73.14,Credit Card,Online
+ORD-100062,05/07/2025,Olivia Moore,Germany,Europe,Monitor,Electronics,1,413.19,0,413.19,280,133.19,Credit Card,Marketplace
+ORD-100063,08/08/2025,Sophia Wilson,India,Asia,Office Chair,Furniture,1,294.87,0,294.87,170,124.87,Debit Card,Online
+ORD-100064,08/11/2025,Alex Johnson,Kenya,Africa,Monitor,Electronics,3,421.45,0,1264.35,840,424.35,PayPal,Online
+ORD-100065,07/12/2025,Alex Johnson,Canada,North America,Printer,Electronics,2,245.76,0.1,442.37,300,142.37,Credit Card,Online
+ORD-100066,07/11/2025,Casey Wilson,Kenya,Africa,Keyboard,Electronics,4,80.97,0.2,259.1,160,99.1,PayPal,Marketplace
+ORD-100067,25/05/2025,Morgan Hall,Nigeria,Africa,Desk,Furniture,1,320.36,0,320.36,200,120.36,PayPal,Retail Store
+ORD-100068,03/02/2025,Taylor Clark,Germany,Europe,Printer,Electronics,1,244.23,0.05,232.02,150,82.02,Credit Card,Marketplace
+ORD-100069,24/08/2025,Emma Anderson,Nigeria,Africa,Desk,Furniture,4,314.41,0,1257.64,800,457.64,Bank Transfer,Retail Store
+ORD-100070,07/03/2025,Ethan Johnson,UK,Europe,Headphones,Electronics,5,129.3,0.05,614.17,300,314.17,Bank Transfer,Retail Store
+ORD-100071,04/11/2025,Drew Brown,USA,North America,Desk,Furniture,2,321.34,0.15,546.28,400,146.28,Bank Transfer,Retail Store
+ORD-100072,18/05/2025,Jordan Taylor,India,Asia,Laptop,Electronics,2,858.23,0,1716.46,1200,516.46,Debit Card,Online
+ORD-100073,23/08/2025,Liam Young,UK,Europe,Bookshelf,Furniture,2,191.86,0.05,364.53,220,144.53,Debit Card,Retail Store
+ORD-100074,26/12/2025,Ethan Walker,Germany,Europe,Bookshelf,Furniture,2,193.23,0.1,347.81,220,127.81,Credit Card,Online
+ORD-100075,05/01/2025,Casey Moore,Canada,North America,Keyboard,Electronics,2,76.6,0,153.2,80,73.2,Credit Card,Marketplace
+ORD-100076,19/03/2025,Emma Thomas,Canada,North America,Office Chair,Furniture,2,278.45,0,556.9,340,216.9,PayPal,Marketplace
+ORD-100077,02/03/2025,Daniel Young,USA,North America,Monitor,Electronics,4,431.61,0,1726.44,1120,606.44,Debit Card,Marketplace
+ORD-100078,14/01/2025,Noah Clark,Canada,North America,Keyboard,Electronics,2,78.54,0.05,149.23,80,69.23,Credit Card,Retail Store
+ORD-100079,21/04/2025,Jamie Brown,Australia,Oceania,Desk,Furniture,3,345.39,0,1036.17,600,436.17,Debit Card,Online
+ORD-100080,29/04/2025,Chris Moore,Nigeria,Africa,Keyboard,Electronics,1,73.31,0,73.31,40,33.31,PayPal,Retail Store
+ORD-100081,09/03/2025,Jordan Young,Canada,North America,Headphones,Electronics,3,123.11,0.05,350.86,180,170.86,Bank Transfer,Online
+ORD-100082,24/03/2025,Mia Taylor,Canada,North America,Laptop,Electronics,2,874.63,0.15,1486.87,1200,286.87,Debit Card,Online
+ORD-100083,30/05/2025,Cameron Anderson,Nigeria,Africa,Desk,Furniture,2,344.7,0.05,654.93,400,254.93,Credit Card,Online
+ORD-100084,17/08/2025,Morgan Young,Germany,Europe,Bookshelf,Furniture,1,204.45,0,204.45,110,94.45,Bank Transfer,Online
+ORD-100085,03/03/2025,Chris Wilson,USA,North America,Monitor,Electronics,3,414.29,0.05,1180.73,840,340.73,Credit Card,Online
+ORD-100086,02/10/2025,Noah Taylor,Germany,Europe,Laptop,Electronics,3,885.65,0.05,2524.1,1800,724.1,Debit Card,Online
+ORD-100087,22/12/2025,Casey Anderson,Nigeria,Africa,Headphones,Electronics,3,121.09,0,363.27,180,183.27,Debit Card,Online
+ORD-100088,17/06/2025,Sam Young,Canada,North America,Keyboard,Electronics,1,78.66,0.05,74.73,40,34.73,Debit Card,Online
+ORD-100089,04/04/2025,Sam Moore,Australia,Oceania,Laptop,Electronics,4,852.64,0.1,3069.5,2400,669.5,Credit Card,Online
+ORD-100090,01/01/2025,Cameron Wilson,India,Asia,Bookshelf,Furniture,3,183.95,0.1,496.66,330,166.66,Credit Card,Online
+ORD-100091,01/08/2025,Mia Martin,Nigeria,Africa,Office Chair,Furniture,1,293.71,0.05,279.02,170,109.02,Debit Card,Marketplace
+ORD-100092,22/10/2025,Emma Smith,India,Asia,Desk,Furniture,5,331.56,0.05,1574.91,1000,574.91,Credit Card,Marketplace
+ORD-100093,05/11/2025,Avery Brown,India,Asia,Bookshelf,Furniture,3,203.71,0,611.13,330,281.13,Credit Card,Online
+ORD-100094,15/01/2025,Jamie Moore,Australia,Oceania,Office Chair,Furniture,2,281.74,0.1,507.13,340,167.13,Credit Card,Online
+ORD-100095,16/10/2025,Alex Taylor,Kenya,Africa,Keyboard,Electronics,3,79.8,0.1,215.46,120,95.46,Bank Transfer,Online
+ORD-100096,16/08/2025,Emma Davis,Nigeria,Africa,Bookshelf,Furniture,3,193.83,0.05,552.42,330,222.42,Bank Transfer,Retail Store
+ORD-100097,05/04/2025,Daniel Clark,UK,Europe,Headphones,Electronics,3,123.34,0.1,333.02,180,153.02,PayPal,Online
+ORD-100098,14/05/2025,Mia Thomas,India,Asia,Printer,Electronics,2,232.78,0.15,395.73,300,95.73,Debit Card,Retail Store
+ORD-100099,21/04/2025,Casey Thomas,India,Asia,Keyboard,Electronics,3,80.21,0,240.63,120,120.63,Credit Card,Retail Store
+ORD-100100,02/04/2025,Cameron Taylor,Australia,Oceania,Monitor,Electronics,1,404.69,0,404.69,280,124.69,PayPal,Online
+ORD-100101,11/04/2025,Sophia Thomas,Nigeria,Africa,Monitor,Electronics,4,449.28,0,1797.12,1120,677.12,Debit Card,Online
+ORD-100102,05/11/2025,Daniel Moore,USA,North America,Monitor,Electronics,4,417.21,0,1668.84,1120,548.84,PayPal,Marketplace
+ORD-100103,29/07/2025,Sophia Taylor,UK,Europe,Monitor,Electronics,5,400.79,0.05,1903.75,1400,503.75,Credit Card,Online
+ORD-100104,17/07/2025,Ethan Wilson,Nigeria,Africa,Bookshelf,Furniture,2,187.36,0.1,337.25,220,117.25,Debit Card,Marketplace
+ORD-100105,27/12/2025,Olivia Anderson,USA,North America,Keyboard,Electronics,2,80.97,0,161.94,80,81.94,Debit Card,Online
+ORD-100106,03/08/2025,Olivia Walker,UK,Europe,Headphones,Electronics,4,121.3,0,485.2,240,245.2,Credit Card,Marketplace
+ORD-100107,19/01/2025,Olivia Johnson,Canada,North America,Laptop,Electronics,4,865.45,0.05,3288.71,2400,888.71,Debit Card,Retail Store
+ORD-100108,12/05/2025,Drew Brown,USA,North America,Bookshelf,Furniture,4,189.72,0.15,645.05,440,205.05,Bank Transfer,Online
+ORD-100109,28/03/2025,Taylor Thomas,Australia,Oceania,Keyboard,Electronics,4,75.23,0.1,270.83,160,110.83,Credit Card,Online
+ORD-100110,24/11/2025,Emma Thomas,Kenya,Africa,Laptop,Electronics,4,879.63,0,3518.52,2400,1118.52,Credit Card,Online
+ORD-100111,19/03/2025,Noah Young,India,Asia,Bookshelf,Furniture,4,203.83,0.15,693.02,440,253.02,Credit Card,Online
+ORD-100112,26/11/2025,Morgan Walker,Australia,Oceania,Laptop,Electronics,1,827.55,0,827.55,600,227.55,Debit Card,Marketplace
+ORD-100113,30/10/2025,Chris Davis,Nigeria,Africa,Keyboard,Electronics,2,74.79,0.1,134.62,80,54.62,Debit Card,Online
+ORD-100114,10/08/2025,Chris Thomas,USA,North America,Monitor,Electronics,4,452.21,0,1808.84,1120,688.84,Credit Card,Retail Store
+ORD-100115,28/02/2025,Noah Moore,Kenya,Africa,Printer,Electronics,4,228.7,0,914.8,600,314.8,Debit Card,Retail Store
+ORD-100116,25/12/2025,Mia Johnson,USA,North America,Desk,Furniture,3,314.34,0,943.02,600,343.02,Credit Card,Online
+ORD-100117,26/05/2025,Casey Moore,India,Asia,Office Chair,Furniture,4,263.65,0.05,1001.87,680,321.87,Debit Card,Retail Store
+ORD-100118,27/04/2025,Riley Johnson,Canada,North America,Desk,Furniture,1,345.67,0.15,293.82,200,93.82,Debit Card,Retail Store
+ORD-100119,22/06/2025,Jordan Lewis,USA,North America,Monitor,Electronics,2,422.04,0.1,759.67,560,199.67,PayPal,Online
+ORD-100120,30/06/2025,Morgan Smith,Germany,Europe,Headphones,Electronics,1,118.5,0,118.5,60,58.5,Bank Transfer,Retail Store
+ORD-100121,06/11/2025,Alex Martin,Canada,North America,Printer,Electronics,3,250.86,0.15,639.69,450,189.69,Credit Card,Online
+ORD-100122,15/08/2025,Cameron Martin,Germany,Europe,Headphones,Electronics,4,116.41,0.15,395.79,240,155.79,Debit Card,Online
+ORD-100123,23/10/2025,Avery Brown,USA,North America,Laptop,Electronics,2,855.55,0.05,1625.54,1200,425.54,Bank Transfer,Retail Store
+ORD-100124,21/06/2025,Olivia Walker,UK,Europe,Desk,Furniture,1,322.04,0,322.04,200,122.04,Bank Transfer,Retail Store
+ORD-100125,30/10/2025,Olivia Anderson,Germany,Europe,Desk,Furniture,6,335.75,0.1,1813.05,1200,613.05,Bank Transfer,Retail Store
+ORD-100126,19/07/2025,Mia Martin,USA,North America,Monitor,Electronics,2,452.93,0,905.86,560,345.86,Credit Card,Retail Store
+ORD-100127,18/07/2025,Emma Wilson,USA,North America,Printer,Electronics,3,237.76,0.05,677.62,450,227.62,Bank Transfer,Online
+ORD-100128,24/11/2025,Avery Brown,Canada,North America,Headphones,Electronics,5,127.45,0.05,605.39,300,305.39,Credit Card,Marketplace
+ORD-100129,30/09/2025,Taylor Wilson,Kenya,Africa,Printer,Electronics,2,243.01,0.05,461.72,300,161.72,Debit Card,Online
+ORD-100130,30/12/2025,Mia Johnson,Australia,Oceania,Printer,Electronics,4,248.64,0.05,944.83,600,344.83,Debit Card,Online
+ORD-100131,18/04/2025,Mia Walker,Kenya,Africa,Monitor,Electronics,1,400.16,0.1,360.14,280,80.14,Debit Card,Marketplace
+ORD-100132,08/02/2025,Chris Moore,Kenya,Africa,Keyboard,Electronics,1,71.62,0,71.62,40,31.62,Debit Card,Online
+ORD-100133,23/09/2025,Olivia Brown,Kenya,Africa,Laptop,Electronics,2,888.42,0.05,1688,1200,488,Debit Card,Online
+ORD-100134,20/11/2025,Emma Moore,Canada,North America,Desk,Furniture,3,347.21,0,1041.63,600,441.63,Credit Card,Online
+ORD-100135,20/05/2025,Avery Thomas,UK,Europe,Monitor,Electronics,4,431.14,0,1724.56,1120,604.56,PayPal,Retail Store
+ORD-100136,03/03/2025,Daniel Walker,Nigeria,Africa,Monitor,Electronics,1,411.65,0.2,329.32,280,49.32,Bank Transfer,Retail Store
+ORD-100137,26/11/2025,Jamie Wilson,UK,Europe,Monitor,Electronics,2,451.27,0,902.54,560,342.54,Credit Card,Marketplace
+ORD-100138,26/06/2025,Taylor Johnson,USA,North America,Headphones,Electronics,3,118.06,0.05,336.47,180,156.47,Debit Card,Marketplace
+ORD-100139,03/01/2025,Cameron Davis,India,Asia,Headphones,Electronics,1,122.38,0,122.38,60,62.38,Debit Card,Online
+ORD-100140,15/04/2025,Jordan Lewis,India,Asia,Headphones,Electronics,1,114.69,0.05,108.96,60,48.96,Credit Card,Online
+ORD-100141,25/01/2025,Riley Clark,Nigeria,Africa,Headphones,Electronics,1,119.81,0,119.81,60,59.81,Bank Transfer,Online
+ORD-100142,06/02/2025,Riley Walker,Germany,Europe,Bookshelf,Furniture,3,201.52,0,604.56,330,274.56,Debit Card,Retail Store
+ORD-100143,05/07/2025,Alex Taylor,UK,Europe,Bookshelf,Furniture,3,201.85,0.05,575.27,330,245.27,Debit Card,Marketplace
+ORD-100144,02/04/2025,Drew Davis,USA,North America,Headphones,Electronics,4,127.06,0.1,457.42,240,217.42,Debit Card,Retail Store
+ORD-100145,07/01/2025,Drew Martin,Nigeria,Africa,Headphones,Electronics,6,127.71,0.05,727.95,360,367.95,Bank Transfer,Online
+ORD-100146,08/02/2025,Avery Johnson,Australia,Oceania,Monitor,Electronics,4,426.71,0.1,1536.16,1120,416.16,Credit Card,Retail Store
+ORD-100147,23/04/2025,Mia Brown,USA,North America,Laptop,Electronics,1,808.5,0,808.5,600,208.5,Credit Card,Online
+ORD-100148,15/03/2025,Casey Walker,USA,North America,Bookshelf,Furniture,4,184.93,0,739.72,440,299.72,Bank Transfer,Online
+ORD-100149,30/08/2025,Alex Taylor,Germany,Europe,Headphones,Electronics,1,125.05,0.1,112.54,60,52.54,Debit Card,Online
+ORD-100150,02/11/2025,Daniel Walker,Kenya,Africa,Bookshelf,Furniture,3,196.5,0,589.5,330,259.5,Debit Card,Online
+ORD-100151,02/02/2025,Jordan Hall,Kenya,Africa,Printer,Electronics,2,249.32,0.1,448.78,300,148.78,Debit Card,Marketplace
+ORD-100152,09/04/2025,Daniel Johnson,Nigeria,Africa,Laptop,Electronics,1,884.15,0.1,795.74,600,195.74,Bank Transfer,Online
+ORD-100153,27/01/2025,Emma Wilson,UK,Europe,Laptop,Electronics,6,888.31,0,5329.86,3600,1729.86,Bank Transfer,Online
+ORD-100154,14/09/2025,Olivia Moore,Canada,North America,Keyboard,Electronics,3,73.2,0.1,197.64,120,77.64,Bank Transfer,Retail Store
+ORD-100155,27/07/2025,Riley Young,UK,Europe,Bookshelf,Furniture,1,182.75,0,182.75,110,72.75,Debit Card,Online
+ORD-100156,18/07/2025,Taylor Davis,UK,Europe,Office Chair,Furniture,1,294.17,0,294.17,170,124.17,Bank Transfer,Online
+ORD-100157,25/07/2025,Liam Moore,Australia,Oceania,Laptop,Electronics,3,869.2,0,2607.6,1800,807.6,Credit Card,Retail Store
+ORD-100158,27/04/2025,Ethan Hall,Canada,North America,Bookshelf,Furniture,2,184.19,0.2,294.7,220,74.7,Debit Card,Online
+ORD-100159,05/04/2025,Cameron Thomas,Kenya,Africa,Bookshelf,Furniture,3,204.03,0.1,550.88,330,220.88,Bank Transfer,Retail Store
+ORD-100160,10/02/2025,Daniel Smith,USA,North America,Keyboard,Electronics,6,76.11,0,456.66,240,216.66,Debit Card,Online
+ORD-100161,19/12/2025,Daniel Martin,Canada,North America,Laptop,Electronics,1,811.17,0,811.17,600,211.17,Debit Card,Online
+ORD-100162,25/12/2025,Chris Smith,Canada,North America,Desk,Furniture,3,310.49,0.1,838.32,600,238.32,PayPal,Online
+ORD-100163,03/05/2025,Ethan Lewis,Kenya,Africa,Laptop,Electronics,5,867.31,0,4336.55,3000,1336.55,PayPal,Retail Store
+ORD-100164,14/11/2025,Liam Davis,Germany,Europe,Desk,Furniture,3,336.67,0.05,959.51,600,359.51,Debit Card,Retail Store
+ORD-100165,03/01/2025,Chris Anderson,Australia,Oceania,Laptop,Electronics,1,887.59,0,887.59,600,287.59,Bank Transfer,Online
+ORD-100166,31/08/2025,Sophia Lewis,Canada,North America,Headphones,Electronics,6,116.84,0,701.04,360,341.04,Debit Card,Retail Store
+ORD-100167,30/05/2025,Sophia Brown,Nigeria,Africa,Bookshelf,Furniture,2,182.51,0.05,346.77,220,126.77,Credit Card,Online
+ORD-100168,26/07/2025,Daniel Wilson,USA,North America,Printer,Electronics,2,250.69,0.1,451.24,300,151.24,Credit Card,Online
+ORD-100169,20/01/2025,Jordan Davis,Germany,Europe,Bookshelf,Furniture,2,195.03,0.05,370.56,220,150.56,PayPal,Marketplace
+ORD-100170,19/09/2025,Taylor Walker,Australia,Oceania,Monitor,Electronics,6,418.61,0,2511.66,1680,831.66,Debit Card,Marketplace
+ORD-100171,13/08/2025,Chris Hall,UK,Europe,Monitor,Electronics,3,408.81,0.15,1042.47,840,202.47,PayPal,Online
+ORD-100172,21/11/2025,Noah Thomas,Kenya,Africa,Office Chair,Furniture,2,275.73,0,551.46,340,211.46,Debit Card,Retail Store
+ORD-100173,19/08/2025,Casey Wilson,Kenya,Africa,Laptop,Electronics,2,836.02,0.15,1421.23,1200,221.23,Credit Card,Retail Store
+ORD-100174,13/06/2025,Noah Martin,Nigeria,Africa,Printer,Electronics,2,230.29,0,460.58,300,160.58,Debit Card,Retail Store
+ORD-100175,27/12/2025,Daniel Lewis,USA,North America,Office Chair,Furniture,1,286.52,0.05,272.19,170,102.19,Credit Card,Retail Store
+ORD-100176,23/07/2025,Emma Taylor,Nigeria,Africa,Laptop,Electronics,4,872.18,0.1,3139.85,2400,739.85,Credit Card,Online
+ORD-100177,30/11/2025,Taylor Taylor,Canada,North America,Laptop,Electronics,2,811.85,0.15,1380.14,1200,180.14,Credit Card,Online
+ORD-100178,10/06/2025,Sam Hall,USA,North America,Headphones,Electronics,1,129.39,0,129.39,60,69.39,PayPal,Retail Store
+ORD-100179,04/07/2025,Jamie Davis,Australia,Oceania,Printer,Electronics,1,238.69,0.05,226.76,150,76.76,Credit Card,Online
+ORD-100180,04/11/2025,Alex Anderson,India,Asia,Monitor,Electronics,1,451.96,0.05,429.36,280,149.36,Bank Transfer,Online
+ORD-100181,05/01/2025,Sam Martin,Australia,Oceania,Desk,Furniture,1,350.1,0.05,332.6,200,132.6,Credit Card,Online
+ORD-100182,26/01/2025,Noah Davis,India,Asia,Printer,Electronics,3,257.05,0,771.15,450,321.15,Bank Transfer,Online
+ORD-100183,22/05/2025,Ethan Taylor,Nigeria,Africa,Bookshelf,Furniture,3,196.75,0,590.25,330,260.25,Credit Card,Marketplace
+ORD-100184,30/03/2025,Morgan Johnson,India,Asia,Office Chair,Furniture,4,287.65,0.05,1093.07,680,413.07,Debit Card,Online
+ORD-100185,12/04/2025,Mia Clark,UK,Europe,Desk,Furniture,5,322.15,0.1,1449.68,1000,449.68,Credit Card,Online
+ORD-100186,30/03/2025,Sophia Lewis,Nigeria,Africa,Printer,Electronics,3,245.58,0.05,699.9,450,249.9,Debit Card,Retail Store
+ORD-100187,12/08/2025,Noah Hall,USA,North America,Headphones,Electronics,1,123.41,0,123.41,60,63.41,Debit Card,Online
+ORD-100188,03/01/2025,Chris Wilson,Nigeria,Africa,Monitor,Electronics,6,448.92,0.1,2424.17,1680,744.17,Debit Card,Retail Store
+ORD-100189,27/10/2025,Chris Clark,Germany,Europe,Printer,Electronics,2,251.3,0.05,477.47,300,177.47,Debit Card,Marketplace
+ORD-100190,17/04/2025,Sam Brown,Australia,Oceania,Bookshelf,Furniture,3,186.51,0.15,475.6,330,145.6,Credit Card,Marketplace
+ORD-100191,02/10/2025,Emma Lewis,Canada,North America,Desk,Furniture,2,320.79,0,641.58,400,241.58,Debit Card,Online
+ORD-100192,07/06/2025,Sam Anderson,Canada,North America,Monitor,Electronics,1,405.65,0,405.65,280,125.65,Bank Transfer,Online
+ORD-100193,08/06/2025,Morgan Davis,Australia,Oceania,Printer,Electronics,1,236,0.05,224.2,150,74.2,Debit Card,Marketplace
+ORD-100194,21/06/2025,Cameron Martin,India,Asia,Office Chair,Furniture,3,282.76,0.15,721.04,510,211.04,Credit Card,Retail Store
+ORD-100195,01/05/2025,Casey Davis,Nigeria,Africa,Monitor,Electronics,5,411.93,0,2059.65,1400,659.65,Credit Card,Marketplace
+ORD-100196,01/03/2025,Ethan Wilson,Australia,Oceania,Monitor,Electronics,4,407.17,0.1,1465.81,1120,345.81,Credit Card,Retail Store
+ORD-100197,14/08/2025,Taylor Lewis,USA,North America,Printer,Electronics,2,237.74,0,475.48,300,175.48,Credit Card,Retail Store
+ORD-100198,19/03/2025,Avery Wilson,Nigeria,Africa,Office Chair,Furniture,1,271.06,0,271.06,170,101.06,Bank Transfer,Online
+ORD-100199,05/05/2025,Sophia Davis,Australia,Oceania,Laptop,Electronics,3,821.69,0.2,1972.06,1800,172.06,Bank Transfer,Retail Store
+ORD-100200,16/06/2025,Cameron Thomas,Nigeria,Africa,Desk,Furniture,1,333.92,0.05,317.22,200,117.22,Credit Card,Online
+ORD-100201,15/07/2025,Riley Taylor,Nigeria,Africa,Laptop,Electronics,4,815.23,0.05,3097.87,2400,697.87,Debit Card,Retail Store
+ORD-100202,27/10/2025,Jordan Taylor,Nigeria,Africa,Monitor,Electronics,2,453.28,0.05,861.23,560,301.23,Debit Card,Retail Store
+ORD-100203,13/10/2025,Emma Moore,Germany,Europe,Bookshelf,Furniture,3,204.25,0,612.75,330,282.75,Credit Card,Online
+ORD-100204,07/06/2025,Daniel Brown,USA,North America,Printer,Electronics,4,248.75,0,995,600,395,PayPal,Online
+ORD-100205,14/12/2025,Alex Moore,UK,Europe,Bookshelf,Furniture,1,199.48,0.1,179.53,110,69.53,Bank Transfer,Online
+ORD-100206,19/08/2025,Noah Davis,India,Asia,Laptop,Electronics,3,825.1,0.05,2351.54,1800,551.54,Credit Card,Online
+ORD-100207,07/03/2025,Taylor Davis,USA,North America,Office Chair,Furniture,2,279.47,0,558.94,340,218.94,Credit Card,Marketplace
+ORD-100208,07/11/2025,Daniel Martin,Kenya,Africa,Headphones,Electronics,4,122.84,0.05,466.79,240,226.79,Debit Card,Online
+ORD-100209,15/06/2025,Jamie Brown,Canada,North America,Office Chair,Furniture,2,292.28,0.1,526.1,340,186.1,Bank Transfer,Online
+ORD-100210,14/03/2025,Noah Davis,Australia,Oceania,Office Chair,Furniture,1,269.24,0,269.24,170,99.24,Debit Card,Marketplace
+ORD-100211,08/10/2025,Liam Taylor,Nigeria,Africa,Desk,Furniture,2,314.63,0.05,597.8,400,197.8,Bank Transfer,Online
+ORD-100212,25/01/2025,Emma Davis,Nigeria,Africa,Office Chair,Furniture,1,279.34,0.05,265.37,170,95.37,Credit Card,Retail Store
+ORD-100213,08/05/2025,Jamie Walker,India,Asia,Keyboard,Electronics,2,75.54,0.05,143.53,80,63.53,Credit Card,Retail Store
+ORD-100214,31/05/2025,Jordan Hall,UK,Europe,Printer,Electronics,1,242.35,0.1,218.12,150,68.12,PayPal,Online
+ORD-100215,25/02/2025,Noah Brown,Australia,Oceania,Laptop,Electronics,2,815.75,0,1631.5,1200,431.5,Credit Card,Retail Store
+ORD-100216,07/04/2025,Daniel Walker,Germany,Europe,Keyboard,Electronics,6,77.25,0.1,417.15,240,177.15,Debit Card,Online
+ORD-100217,19/08/2025,Taylor Anderson,Canada,North America,Printer,Electronics,4,248.41,0,993.64,600,393.64,Debit Card,Online
+ORD-100218,17/08/2025,Jamie Young,Nigeria,Africa,Desk,Furniture,6,314.4,0,1886.4,1200,686.4,Debit Card,Retail Store
+ORD-100219,06/03/2025,Casey Walker,Nigeria,Africa,Office Chair,Furniture,4,268.36,0.05,1019.77,680,339.77,Credit Card,Online
+ORD-100220,07/07/2025,Morgan Johnson,UK,Europe,Printer,Electronics,2,232.66,0,465.32,300,165.32,Credit Card,Retail Store
+ORD-100221,20/08/2025,Drew Walker,UK,Europe,Laptop,Electronics,3,850.86,0.1,2297.32,1800,497.32,Credit Card,Online
+ORD-100222,30/04/2025,Drew Johnson,USA,North America,Laptop,Electronics,3,835.64,0,2506.92,1800,706.92,Credit Card,Marketplace
+ORD-100223,04/10/2025,Olivia Young,Germany,Europe,Headphones,Electronics,2,121.02,0,242.04,120,122.04,PayPal,Online
+ORD-100224,22/06/2025,Mia Thomas,UK,Europe,Office Chair,Furniture,3,285.57,0.05,813.87,510,303.87,Credit Card,Retail Store
+ORD-100225,19/04/2025,Riley Martin,UK,Europe,Bookshelf,Furniture,1,193.06,0,193.06,110,83.06,Debit Card,Marketplace
+ORD-100226,30/07/2025,Riley Martin,Australia,Oceania,Headphones,Electronics,1,115.53,0,115.53,60,55.53,Credit Card,Online
+ORD-100227,08/08/2025,Emma Johnson,USA,North America,Printer,Electronics,4,258.45,0,1033.8,600,433.8,Credit Card,Online
+ORD-100228,20/11/2025,Ethan Martin,Kenya,Africa,Laptop,Electronics,3,812.14,0.05,2314.6,1800,514.6,Bank Transfer,Online
+ORD-100229,15/09/2025,Jordan Clark,Kenya,Africa,Office Chair,Furniture,3,290.27,0.1,783.73,510,273.73,Credit Card,Online
+ORD-100230,02/07/2025,Ethan Taylor,USA,North America,Laptop,Electronics,2,850.45,0.05,1615.86,1200,415.86,Credit Card,Marketplace
+ORD-100231,21/06/2025,Avery Smith,India,Asia,Headphones,Electronics,5,118.46,0.05,562.68,300,262.68,Credit Card,Online
+ORD-100232,29/05/2025,Avery Anderson,Nigeria,Africa,Desk,Furniture,2,339.53,0.1,611.15,400,211.15,Bank Transfer,Online
+ORD-100233,27/03/2025,Jordan Walker,Kenya,Africa,Headphones,Electronics,1,125.36,0.05,119.09,60,59.09,Bank Transfer,Online
+ORD-100234,19/02/2025,Sam Wilson,Australia,Oceania,Printer,Electronics,2,250.86,0.1,451.55,300,151.55,Debit Card,Online
+ORD-100235,10/07/2025,Casey Young,Kenya,Africa,Headphones,Electronics,1,123,0,123,60,63,Credit Card,Retail Store
+ORD-100236,13/03/2025,Drew Johnson,USA,North America,Keyboard,Electronics,3,72.22,0.2,173.33,120,53.33,Credit Card,Retail Store
+ORD-100237,29/10/2025,Daniel Davis,Australia,Oceania,Headphones,Electronics,1,126.23,0,126.23,60,66.23,Credit Card,Retail Store
+ORD-100238,23/02/2025,Daniel Clark,Germany,Europe,Laptop,Electronics,1,891.33,0.1,802.2,600,202.2,Bank Transfer,Marketplace
+ORD-100239,11/03/2025,Daniel Martin,India,Asia,Headphones,Electronics,6,121,0,726,360,366,PayPal,Retail Store
+ORD-100240,20/10/2025,Noah Davis,Kenya,Africa,Office Chair,Furniture,1,262.29,0,262.29,170,92.29,Credit Card,Online
+ORD-100241,30/09/2025,Liam Martin,Australia,Oceania,Printer,Electronics,2,230.02,0.05,437.04,300,137.04,Debit Card,Retail Store
+ORD-100242,11/09/2025,Sophia Smith,India,Asia,Monitor,Electronics,3,400.25,0.05,1140.71,840,300.71,Bank Transfer,Online
+ORD-100243,01/06/2025,Sophia Walker,Nigeria,Africa,Keyboard,Electronics,4,78.94,0.1,284.18,160,124.18,Credit Card,Online
+ORD-100244,02/07/2025,Emma Clark,USA,North America,Monitor,Electronics,2,442.75,0,885.5,560,325.5,Bank Transfer,Online
+ORD-100245,10/06/2025,Jamie Young,USA,North America,Desk,Furniture,3,313.75,0.1,847.12,600,247.12,PayPal,Online
+ORD-100246,17/05/2025,Taylor Walker,Canada,North America,Bookshelf,Furniture,1,204.7,0.05,194.46,110,84.46,Bank Transfer,Retail Store
+ORD-100247,28/04/2025,Drew Brown,Nigeria,Africa,Desk,Furniture,2,348.49,0,696.98,400,296.98,Debit Card,Marketplace
+ORD-100248,15/12/2025,Morgan Taylor,India,Asia,Office Chair,Furniture,2,294.76,0,589.52,340,249.52,Bank Transfer,Online
+ORD-100249,22/10/2025,Noah Lewis,Canada,North America,Headphones,Electronics,2,125.94,0.1,226.69,120,106.69,Credit Card,Online
+ORD-100250,25/03/2025,Avery Brown,India,Asia,Laptop,Electronics,6,813.8,0,4882.8,3600,1282.8,Credit Card,Retail Store
+ORD-100251,02/12/2025,Cameron Walker,India,Asia,Desk,Furniture,2,320.08,0.1,576.14,400,176.14,PayPal,Online
+ORD-100252,04/12/2025,Avery Taylor,Canada,North America,Headphones,Electronics,1,120.41,0.05,114.39,60,54.39,PayPal,Online
+ORD-100253,05/09/2025,Chris Thomas,UK,Europe,Keyboard,Electronics,1,75.09,0.15,63.83,40,23.83,Credit Card,Retail Store
+ORD-100254,10/11/2025,Olivia Brown,Nigeria,Africa,Monitor,Electronics,1,409.44,0.1,368.5,280,88.5,Credit Card,Marketplace
+ORD-100255,10/06/2025,Alex Smith,Canada,North America,Office Chair,Furniture,1,291.66,0,291.66,170,121.66,PayPal,Online
+ORD-100256,28/01/2025,Jamie Hall,Canada,North America,Headphones,Electronics,1,122.48,0.1,110.23,60,50.23,Debit Card,Online
+ORD-100257,07/12/2025,Liam Brown,Nigeria,Africa,Monitor,Electronics,3,404.33,0,1212.99,840,372.99,Bank Transfer,Online
+ORD-100258,10/12/2025,Sophia Young,Australia,Oceania,Bookshelf,Furniture,1,204.66,0,204.66,110,94.66,Debit Card,Online
+ORD-100259,04/10/2025,Riley Wilson,Germany,Europe,Monitor,Electronics,2,427.36,0.1,769.25,560,209.25,Bank Transfer,Online
+ORD-100260,27/09/2025,Jordan Moore,UK,Europe,Office Chair,Furniture,2,288.85,0.2,462.16,340,122.16,Credit Card,Online
+ORD-100261,13/02/2025,Ethan Clark,USA,North America,Monitor,Electronics,2,434.86,0,869.72,560,309.72,Bank Transfer,Marketplace
+ORD-100262,25/09/2025,Riley Anderson,Canada,North America,Bookshelf,Furniture,2,194.77,0.1,350.59,220,130.59,Bank Transfer,Online
+ORD-100263,26/08/2025,Avery Brown,India,Asia,Monitor,Electronics,1,442.31,0.05,420.19,280,140.19,Credit Card,Marketplace
+ORD-100264,29/12/2025,Casey Lewis,India,Asia,Desk,Furniture,1,316.53,0,316.53,200,116.53,Bank Transfer,Online
+ORD-100265,03/09/2025,Alex Young,UK,Europe,Bookshelf,Furniture,1,188.4,0.1,169.56,110,59.56,Debit Card,Online
+ORD-100266,07/06/2025,Casey Moore,Nigeria,Africa,Monitor,Electronics,1,422.34,0.15,358.99,280,78.99,Credit Card,Online
+ORD-100267,03/06/2025,Daniel Taylor,Kenya,Africa,Desk,Furniture,3,345.01,0,1035.03,600,435.03,Debit Card,Retail Store
+ORD-100268,30/12/2025,Liam Wilson,Germany,Europe,Laptop,Electronics,2,899.02,0.05,1708.14,1200,508.14,Credit Card,Online
+ORD-100269,12/06/2025,Liam Taylor,Germany,Europe,Monitor,Electronics,2,439.89,0.05,835.79,560,275.79,Bank Transfer,Marketplace
+ORD-100270,16/12/2025,Jordan Brown,Australia,Oceania,Headphones,Electronics,3,124.55,0,373.65,180,193.65,Bank Transfer,Online
+ORD-100271,20/07/2025,Taylor Davis,Germany,Europe,Keyboard,Electronics,6,72,0,432,240,192,PayPal,Online
+ORD-100272,23/05/2025,Noah Davis,Australia,Oceania,Office Chair,Furniture,1,284.6,0,284.6,170,114.6,PayPal,Retail Store
+ORD-100273,21/12/2025,Jordan Thomas,Germany,Europe,Office Chair,Furniture,5,292.5,0.05,1389.38,850,539.38,Credit Card,Online
+ORD-100274,24/11/2025,Olivia Moore,Kenya,Africa,Headphones,Electronics,2,121.47,0.1,218.65,120,98.65,Debit Card,Online
+ORD-100275,12/04/2025,Drew Brown,Australia,Oceania,Desk,Furniture,4,347.23,0,1388.92,800,588.92,Bank Transfer,Online
+ORD-100276,23/11/2025,Sophia Young,Kenya,Africa,Printer,Electronics,3,244.62,0.05,697.17,450,247.17,Debit Card,Online
+ORD-100277,13/11/2025,Daniel Moore,Germany,Europe,Bookshelf,Furniture,1,194.51,0,194.51,110,84.51,Bank Transfer,Online
+ORD-100278,30/11/2025,Cameron Walker,Kenya,Africa,Laptop,Electronics,1,901.68,0.15,766.43,600,166.43,Debit Card,Marketplace
+ORD-100279,07/05/2025,Chris Brown,Australia,Oceania,Printer,Electronics,2,236.9,0.1,426.42,300,126.42,Credit Card,Retail Store
+ORD-100280,12/09/2025,Cameron Walker,Nigeria,Africa,Office Chair,Furniture,1,278.71,0,278.71,170,108.71,Credit Card,Marketplace
+ORD-100281,04/08/2025,Chris Hall,India,Asia,Laptop,Electronics,1,816.58,0.05,775.75,600,175.75,Bank Transfer,Retail Store
+ORD-100282,26/01/2025,Sophia Davis,Germany,Europe,Office Chair,Furniture,1,277.17,0.15,235.59,170,65.59,Bank Transfer,Online
+ORD-100283,17/09/2025,Jordan Clark,Kenya,Africa,Keyboard,Electronics,2,80.52,0.05,152.99,80,72.99,Bank Transfer,Online
+ORD-100284,28/03/2025,Jamie Martin,Kenya,Africa,Desk,Furniture,5,310.43,0,1552.15,1000,552.15,PayPal,Online
+ORD-100285,28/12/2025,Taylor Walker,USA,North America,Laptop,Electronics,2,829.17,0.05,1575.42,1200,375.42,Debit Card,Retail Store
+ORD-100286,08/07/2025,Alex Martin,Kenya,Africa,Laptop,Electronics,1,811.56,0,811.56,600,211.56,Debit Card,Online
+ORD-100287,11/07/2025,Casey Smith,Kenya,Africa,Monitor,Electronics,2,420.68,0.15,715.16,560,155.16,Debit Card,Online
+ORD-100288,03/11/2025,Noah Brown,UK,Europe,Printer,Electronics,3,249.07,0,747.21,450,297.21,Debit Card,Marketplace
+ORD-100289,14/02/2025,Mia Lewis,USA,North America,Bookshelf,Furniture,2,202.92,0,405.84,220,185.84,Bank Transfer,Online
+ORD-100290,31/03/2025,Mia Young,Australia,Oceania,Keyboard,Electronics,4,77.45,0,309.8,160,149.8,Credit Card,Retail Store
+ORD-100291,04/12/2025,Casey Brown,Canada,North America,Monitor,Electronics,3,435.18,0.1,1174.99,840,334.99,Debit Card,Online
+ORD-100292,23/04/2025,Cameron Martin,USA,North America,Keyboard,Electronics,1,80.43,0,80.43,40,40.43,Credit Card,Retail Store
+ORD-100293,23/09/2025,Taylor Davis,Kenya,Africa,Monitor,Electronics,1,407.43,0,407.43,280,127.43,Bank Transfer,Retail Store
+ORD-100294,03/04/2025,Chris Brown,Kenya,Africa,Headphones,Electronics,2,114.18,0,228.36,120,108.36,Debit Card,Online
+ORD-100295,23/12/2025,Jamie Lewis,Nigeria,Africa,Desk,Furniture,3,339.56,0,1018.68,600,418.68,Debit Card,Marketplace
+ORD-100296,09/04/2025,Chris Johnson,Nigeria,Africa,Printer,Electronics,2,246.42,0.1,443.56,300,143.56,Debit Card,Online
+ORD-100297,21/06/2025,Morgan Lewis,Australia,Oceania,Laptop,Electronics,2,871.83,0,1743.66,1200,543.66,Bank Transfer,Online
+ORD-100298,05/06/2025,Daniel Brown,Nigeria,Africa,Printer,Electronics,1,238.79,0.15,202.97,150,52.97,Credit Card,Retail Store
+ORD-100299,06/05/2025,Liam Davis,UK,Europe,Laptop,Electronics,1,866.18,0.1,779.56,600,179.56,Debit Card,Retail Store
+ORD-100300,31/01/2025,Taylor Clark,Germany,Europe,Laptop,Electronics,1,810.54,0.05,770.01,600,170.01,Credit Card,Online
+ORD-100301,29/12/2025,Emma Wilson,India,Asia,Headphones,Electronics,1,125.8,0,125.8,60,65.8,Credit Card,Marketplace
+ORD-100302,05/05/2025,Ethan Lewis,Nigeria,Africa,Monitor,Electronics,2,423.25,0.05,804.18,560,244.18,Debit Card,Online
+ORD-100303,28/02/2025,Morgan Wilson,Australia,Oceania,Desk,Furniture,2,323.13,0,646.26,400,246.26,Credit Card,Retail Store
+ORD-100304,11/06/2025,Jordan Walker,Nigeria,Africa,Desk,Furniture,1,323.8,0.1,291.42,200,91.42,Credit Card,Online
+ORD-100305,21/01/2025,Taylor Walker,Germany,Europe,Headphones,Electronics,3,123.06,0,369.18,180,189.18,Debit Card,Online
+ORD-100306,30/09/2025,Sophia Wilson,UK,Europe,Keyboard,Electronics,2,78.98,0,157.96,80,77.96,Bank Transfer,Online
+ORD-100307,05/01/2025,Jordan Clark,USA,North America,Office Chair,Furniture,2,295.71,0,591.42,340,251.42,Credit Card,Online
+ORD-100308,03/09/2025,Daniel Moore,Nigeria,Africa,Desk,Furniture,4,342.31,0,1369.24,800,569.24,PayPal,Marketplace
+ORD-100309,17/01/2025,Jamie Young,UK,Europe,Headphones,Electronics,2,125.77,0,251.54,120,131.54,Credit Card,Online
+ORD-100310,16/03/2025,Sophia Johnson,USA,North America,Desk,Furniture,4,330.35,0,1321.4,800,521.4,Bank Transfer,Marketplace
+ORD-100311,07/08/2025,Mia Brown,Canada,North America,Keyboard,Electronics,4,76.84,0.1,276.62,160,116.62,Credit Card,Online
+ORD-100312,26/04/2025,Jamie Brown,Nigeria,Africa,Laptop,Electronics,3,834.06,0,2502.18,1800,702.18,Debit Card,Online
+ORD-100313,08/07/2025,Sam Brown,Australia,Oceania,Printer,Electronics,1,249.46,0.05,236.99,150,86.99,Bank Transfer,Online
+ORD-100314,06/05/2025,Emma Brown,Nigeria,Africa,Bookshelf,Furniture,4,198.61,0,794.44,440,354.44,PayPal,Retail Store
+ORD-100315,23/04/2025,Casey Smith,India,Asia,Printer,Electronics,1,238.66,0,238.66,150,88.66,Credit Card,Online
+ORD-100316,16/05/2025,Jordan Young,Nigeria,Africa,Keyboard,Electronics,3,79.5,0.1,214.65,120,94.65,Credit Card,Online
+ORD-100317,17/09/2025,Mia Walker,Kenya,Africa,Printer,Electronics,1,231.46,0,231.46,150,81.46,Bank Transfer,Online
+ORD-100318,24/03/2025,Drew Lewis,UK,Europe,Desk,Furniture,2,329.9,0,659.8,400,259.8,Bank Transfer,Online
+ORD-100319,13/01/2025,Noah Thomas,India,Asia,Printer,Electronics,1,240.52,0.1,216.47,150,66.47,Debit Card,Marketplace
+ORD-100320,09/08/2025,Mia Wilson,Australia,Oceania,Office Chair,Furniture,4,269.09,0.05,1022.54,680,342.54,Credit Card,Online
+ORD-100321,08/10/2025,Drew Davis,Kenya,Africa,Printer,Electronics,5,242.02,0.05,1149.6,750,399.6,Debit Card,Online
+ORD-100322,09/06/2025,Emma Taylor,Canada,North America,Desk,Furniture,2,321.56,0,643.12,400,243.12,Debit Card,Online
+ORD-100323,28/02/2025,Ethan Thomas,Australia,Oceania,Bookshelf,Furniture,1,187.52,0.05,178.14,110,68.14,Debit Card,Online
+ORD-100324,23/07/2025,Ethan Taylor,USA,North America,Printer,Electronics,1,252.43,0,252.43,150,102.43,Bank Transfer,Online
+ORD-100325,02/11/2025,Sam Moore,India,Asia,Laptop,Electronics,2,816.64,0.15,1388.29,1200,188.29,Credit Card,Online
+ORD-100326,11/06/2025,Olivia Taylor,Germany,Europe,Keyboard,Electronics,4,75.48,0.15,256.63,160,96.63,Credit Card,Marketplace
+ORD-100327,05/07/2025,Drew Young,Australia,Oceania,Monitor,Electronics,3,445.1,0.15,1135.01,840,295.01,Credit Card,Retail Store
+ORD-100328,13/01/2025,Cameron Wilson,Nigeria,Africa,Laptop,Electronics,1,882.21,0,882.21,600,282.21,Debit Card,Retail Store
+ORD-100329,20/10/2025,Cameron Brown,Canada,North America,Laptop,Electronics,2,862.79,0.15,1466.74,1200,266.74,Debit Card,Online
+ORD-100330,15/08/2025,Mia Davis,Germany,Europe,Laptop,Electronics,1,853.52,0.1,768.17,600,168.17,PayPal,Online
+ORD-100331,25/11/2025,Mia Walker,Kenya,Africa,Headphones,Electronics,3,126.42,0.05,360.3,180,180.3,Credit Card,Online
+ORD-100332,20/09/2025,Riley Taylor,Germany,Europe,Monitor,Electronics,3,401.85,0.2,964.44,840,124.44,Credit Card,Marketplace
+ORD-100333,09/09/2025,Chris Young,UK,Europe,Headphones,Electronics,3,126.2,0.1,340.74,180,160.74,PayPal,Online
+ORD-100334,14/06/2025,Taylor Moore,Kenya,Africa,Bookshelf,Furniture,4,203.94,0.1,734.18,440,294.18,Bank Transfer,Online
+ORD-100335,25/09/2025,Jamie Smith,Kenya,Africa,Keyboard,Electronics,1,80.64,0.05,76.61,40,36.61,Credit Card,Retail Store
+ORD-100336,24/06/2025,Drew Clark,USA,North America,Bookshelf,Furniture,1,194.71,0.1,175.24,110,65.24,Debit Card,Online
+ORD-100337,14/05/2025,Avery Davis,Australia,Oceania,Bookshelf,Furniture,2,198.75,0,397.5,220,177.5,Bank Transfer,Retail Store
+ORD-100338,27/07/2025,Cameron Clark,UK,Europe,Office Chair,Furniture,3,291.53,0.2,699.67,510,189.67,Bank Transfer,Retail Store
+ORD-100339,14/02/2025,Jordan Johnson,Kenya,Africa,Headphones,Electronics,2,117.56,0,235.12,120,115.12,Debit Card,Retail Store
+ORD-100340,06/08/2025,Daniel Johnson,Germany,Europe,Monitor,Electronics,6,427.98,0,2567.88,1680,887.88,Bank Transfer,Retail Store
+ORD-100341,05/10/2025,Drew Clark,USA,North America,Laptop,Electronics,1,823.06,0,823.06,600,223.06,Debit Card,Online
+ORD-100342,30/06/2025,Alex Smith,India,Asia,Bookshelf,Furniture,5,196.38,0,981.9,550,431.9,PayPal,Online
+ORD-100343,07/07/2025,Ethan Wilson,USA,North America,Printer,Electronics,1,249.53,0.05,237.05,150,87.05,Debit Card,Online
+ORD-100344,05/09/2025,Noah Wilson,Kenya,Africa,Laptop,Electronics,6,834.23,0.05,4755.11,3600,1155.11,Debit Card,Marketplace
+ORD-100345,29/07/2025,Jamie Walker,Kenya,Africa,Monitor,Electronics,1,429.62,0.05,408.14,280,128.14,Debit Card,Marketplace
+ORD-100346,18/04/2025,Chris Taylor,USA,North America,Laptop,Electronics,6,901.84,0.1,4869.94,3600,1269.94,Credit Card,Retail Store
+ORD-100347,09/09/2025,Sam Wilson,India,Asia,Bookshelf,Furniture,3,194.57,0.2,466.97,330,136.97,Debit Card,Retail Store
+ORD-100348,07/11/2025,Jordan Smith,Kenya,Africa,Desk,Furniture,1,343.79,0,343.79,200,143.79,PayPal,Online
+ORD-100349,04/09/2025,Alex Clark,India,Asia,Office Chair,Furniture,4,272.33,0.1,980.39,680,300.39,Bank Transfer,Online
+ORD-100350,29/03/2025,Morgan Wilson,Canada,North America,Desk,Furniture,4,344.05,0.05,1307.39,800,507.39,Credit Card,Retail Store
+ORD-100351,12/09/2025,Riley Clark,UK,Europe,Office Chair,Furniture,1,291.57,0,291.57,170,121.57,Credit Card,Online
+ORD-100352,15/12/2025,Jordan Brown,UK,Europe,Keyboard,Electronics,3,74.07,0,222.21,120,102.21,Debit Card,Online
+ORD-100353,23/11/2025,Olivia Anderson,USA,North America,Headphones,Electronics,2,128.33,0.1,230.99,120,110.99,Debit Card,Online
+ORD-100354,01/10/2025,Alex Johnson,Nigeria,Africa,Keyboard,Electronics,2,75.3,0.05,143.07,80,63.07,PayPal,Marketplace
+ORD-100355,26/04/2025,Alex Smith,Australia,Oceania,Monitor,Electronics,4,411.49,0.1,1481.36,1120,361.36,Credit Card,Retail Store
+ORD-100356,09/08/2025,Chris Martin,Germany,Europe,Office Chair,Furniture,3,276.53,0.05,788.11,510,278.11,PayPal,Online
+ORD-100357,18/07/2025,Morgan Anderson,Australia,Oceania,Printer,Electronics,5,241.09,0.15,1024.63,750,274.63,Debit Card,Online
+ORD-100358,26/04/2025,Noah Lewis,Nigeria,Africa,Office Chair,Furniture,1,282.48,0,282.48,170,112.48,Bank Transfer,Online
+ORD-100359,28/09/2025,Morgan Johnson,UK,Europe,Office Chair,Furniture,2,290.81,0,581.62,340,241.62,Bank Transfer,Online
+ORD-100360,04/01/2025,Mia Wilson,UK,Europe,Monitor,Electronics,4,414.42,0.05,1574.8,1120,454.8,Debit Card,Online
+ORD-100361,18/06/2025,Drew Thomas,USA,North America,Office Chair,Furniture,2,263.2,0.05,500.08,340,160.08,Credit Card,Online
+ORD-100362,13/11/2025,Chris Taylor,Germany,Europe,Headphones,Electronics,5,116.98,0,584.9,300,284.9,Bank Transfer,Retail Store
+ORD-100363,18/06/2025,Liam Clark,Nigeria,Africa,Office Chair,Furniture,2,272.88,0,545.76,340,205.76,Credit Card,Online
+ORD-100364,16/02/2025,Riley Smith,Kenya,Africa,Keyboard,Electronics,6,75.08,0.1,405.43,240,165.43,Debit Card,Online
+ORD-100365,21/07/2025,Drew Taylor,India,Asia,Headphones,Electronics,1,118.19,0.05,112.28,60,52.28,Credit Card,Retail Store
+ORD-100366,21/04/2025,Sophia Davis,USA,North America,Headphones,Electronics,4,122.02,0,488.08,240,248.08,PayPal,Online
+ORD-100367,13/07/2025,Avery Walker,India,Asia,Printer,Electronics,3,256.74,0.05,731.71,450,281.71,PayPal,Online
+ORD-100368,08/09/2025,Taylor Smith,USA,North America,Office Chair,Furniture,1,285.03,0,285.03,170,115.03,Bank Transfer,Retail Store
+ORD-100369,24/06/2025,Morgan Davis,Nigeria,Africa,Printer,Electronics,2,243.05,0,486.1,300,186.1,Debit Card,Online
+ORD-100370,19/03/2025,Sophia Taylor,Canada,North America,Laptop,Electronics,6,833.46,0,5000.76,3600,1400.76,Debit Card,Marketplace
+ORD-100371,05/12/2025,Liam Hall,Nigeria,Africa,Laptop,Electronics,2,820.59,0.05,1559.12,1200,359.12,Debit Card,Online
+ORD-100372,12/02/2025,Sophia Moore,Canada,North America,Laptop,Electronics,1,839.55,0,839.55,600,239.55,Bank Transfer,Online
+ORD-100373,24/04/2025,Alex Smith,India,Asia,Printer,Electronics,5,249.03,0,1245.15,750,495.15,Credit Card,Online
+ORD-100374,10/10/2025,Casey Taylor,Germany,Europe,Laptop,Electronics,5,904.52,0,4522.6,3000,1522.6,Credit Card,Online
+ORD-100375,19/02/2025,Emma Anderson,India,Asia,Laptop,Electronics,3,813.75,0,2441.25,1800,641.25,PayPal,Retail Store
+ORD-100376,01/07/2025,Daniel Walker,Australia,Oceania,Printer,Electronics,1,252.5,0.1,227.25,150,77.25,Credit Card,Marketplace
+ORD-100377,27/12/2025,Jamie Martin,USA,North America,Bookshelf,Furniture,1,184.93,0.05,175.68,110,65.68,Credit Card,Online
+ORD-100378,23/03/2025,Taylor Martin,Canada,North America,Keyboard,Electronics,2,75.13,0,150.26,80,70.26,Debit Card,Retail Store
+ORD-100379,02/01/2025,Avery Clark,Germany,Europe,Bookshelf,Furniture,3,195.41,0.15,498.3,330,168.3,Credit Card,Marketplace
+ORD-100380,10/02/2025,Jordan Taylor,Kenya,Africa,Keyboard,Electronics,3,77.57,0.05,221.07,120,101.07,PayPal,Online
+ORD-100381,23/09/2025,Jordan Walker,USA,North America,Laptop,Electronics,3,865.6,0.05,2466.96,1800,666.96,Credit Card,Online
+ORD-100382,23/09/2025,Morgan Johnson,Nigeria,Africa,Printer,Electronics,1,228.21,0.15,193.98,150,43.98,Credit Card,Online
+ORD-100383,28/10/2025,Morgan Moore,Germany,Europe,Printer,Electronics,1,257.88,0.05,244.99,150,94.99,PayPal,Online
+ORD-100384,15/10/2025,Ethan Brown,Kenya,Africa,Bookshelf,Furniture,3,198.85,0.05,566.72,330,236.72,PayPal,Online
+ORD-100385,28/09/2025,Olivia Clark,Germany,Europe,Office Chair,Furniture,2,296.87,0,593.74,340,253.74,Bank Transfer,Online
+ORD-100386,31/07/2025,Daniel Young,Nigeria,Africa,Bookshelf,Furniture,3,181.74,0.1,490.7,330,160.7,Credit Card,Online
+ORD-100387,10/03/2025,Alex Clark,UK,Europe,Bookshelf,Furniture,5,190.99,0,954.95,550,404.95,Debit Card,Online
+ORD-100388,18/05/2025,Noah Brown,Canada,North America,Desk,Furniture,2,320.72,0.05,609.37,400,209.37,Debit Card,Retail Store
+ORD-100389,01/04/2025,Jamie Clark,Kenya,Africa,Bookshelf,Furniture,1,203.24,0,203.24,110,93.24,Debit Card,Online
+ORD-100390,11/10/2025,Jordan Walker,USA,North America,Desk,Furniture,4,342.02,0,1368.08,800,568.08,PayPal,Retail Store
+ORD-100391,18/08/2025,Ethan Johnson,Canada,North America,Bookshelf,Furniture,2,203.63,0.05,386.9,220,166.9,Debit Card,Retail Store
+ORD-100392,05/07/2025,Morgan Lewis,USA,North America,Office Chair,Furniture,2,263.26,0.05,500.19,340,160.19,Credit Card,Retail Store
+ORD-100393,30/08/2025,Olivia Martin,USA,North America,Laptop,Electronics,5,864.56,0,4322.8,3000,1322.8,PayPal,Retail Store
+ORD-100394,19/04/2025,Chris Lewis,Australia,Oceania,Keyboard,Electronics,2,71.33,0.1,128.39,80,48.39,Debit Card,Retail Store
+ORD-100395,02/06/2025,Noah Anderson,Nigeria,Africa,Office Chair,Furniture,2,289.47,0.1,521.05,340,181.05,PayPal,Online
+ORD-100396,26/06/2025,Cameron Taylor,Canada,North America,Monitor,Electronics,5,404.6,0.1,1820.7,1400,420.7,Debit Card,Online
+ORD-100397,30/05/2025,Liam Brown,USA,North America,Desk,Furniture,4,323.32,0.15,1099.29,800,299.29,Debit Card,Online
+ORD-100398,12/10/2025,Liam Anderson,Australia,Oceania,Office Chair,Furniture,2,275.01,0.1,495.02,340,155.02,Debit Card,Retail Store
+ORD-100399,26/03/2025,Alex Hall,Canada,North America,Office Chair,Furniture,3,267.02,0.05,761.01,510,251.01,Credit Card,Online
+ORD-100400,02/05/2025,Sam Hall,Canada,North America,Printer,Electronics,1,244.2,0,244.2,150,94.2,Credit Card,Online
+ORD-100401,07/05/2025,Cameron Young,UK,Europe,Desk,Furniture,1,334.79,0.15,284.57,200,84.57,Bank Transfer,Marketplace
+ORD-100402,14/07/2025,Sophia Walker,Canada,North America,Bookshelf,Furniture,3,192.85,0,578.55,330,248.55,PayPal,Retail Store
+ORD-100403,27/08/2025,Olivia Anderson,Nigeria,Africa,Bookshelf,Furniture,3,188.83,0,566.49,330,236.49,Credit Card,Retail Store
+ORD-100404,07/01/2025,Sam Moore,Canada,North America,Laptop,Electronics,6,875.05,0.1,4725.27,3600,1125.27,Bank Transfer,Online
+ORD-100405,29/01/2025,Cameron Thomas,Nigeria,Africa,Headphones,Electronics,3,114.16,0,342.48,180,162.48,Bank Transfer,Online
+ORD-100406,27/03/2025,Noah Walker,India,Asia,Laptop,Electronics,2,894.97,0,1789.94,1200,589.94,Credit Card,Marketplace
+ORD-100407,28/09/2025,Sophia Johnson,UK,Europe,Headphones,Electronics,1,126.54,0,126.54,60,66.54,Credit Card,Marketplace
+ORD-100408,23/07/2025,Olivia Walker,Australia,Oceania,Laptop,Electronics,3,867.79,0.1,2343.03,1800,543.03,Debit Card,Online
+ORD-100409,01/12/2025,Taylor Taylor,Germany,Europe,Bookshelf,Furniture,5,191.53,0,957.65,550,407.65,Bank Transfer,Retail Store
+ORD-100410,03/03/2025,Sam Johnson,Germany,Europe,Headphones,Electronics,2,119.46,0,238.92,120,118.92,Bank Transfer,Online
+ORD-100411,14/12/2025,Morgan Thomas,Australia,Oceania,Keyboard,Electronics,1,71.72,0,71.72,40,31.72,Debit Card,Online
+ORD-100412,14/11/2025,Chris Walker,Australia,Oceania,Bookshelf,Furniture,2,197.08,0,394.16,220,174.16,Debit Card,Retail Store
+ORD-100413,08/08/2025,Morgan Martin,Kenya,Africa,Office Chair,Furniture,1,282.89,0,282.89,170,112.89,Debit Card,Retail Store
+ORD-100414,28/11/2025,Riley Walker,Canada,North America,Office Chair,Furniture,3,268.48,0,805.44,510,295.44,Credit Card,Online
+ORD-100415,23/07/2025,Ethan Lewis,Canada,North America,Keyboard,Electronics,3,76.95,0.05,219.31,120,99.31,Debit Card,Online
+ORD-100416,14/11/2025,Jamie Brown,India,Asia,Laptop,Electronics,1,836.68,0.05,794.85,600,194.85,Bank Transfer,Online
+ORD-100417,22/06/2025,Avery Taylor,India,Asia,Keyboard,Electronics,2,77.63,0,155.26,80,75.26,Credit Card,Retail Store
+ORD-100418,26/07/2025,Casey Davis,Germany,Europe,Bookshelf,Furniture,4,182.68,0,730.72,440,290.72,Credit Card,Online
+ORD-100419,14/09/2025,Emma Wilson,Nigeria,Africa,Printer,Electronics,1,255.72,0,255.72,150,105.72,Bank Transfer,Marketplace
+ORD-100420,25/06/2025,Avery Thomas,Kenya,Africa,Laptop,Electronics,5,843.44,0.15,3584.62,3000,584.62,Bank Transfer,Online
+ORD-100421,21/09/2025,Daniel Lewis,UK,Europe,Laptop,Electronics,3,817.99,0,2453.97,1800,653.97,Credit Card,Retail Store
+ORD-100422,02/03/2025,Mia Smith,Canada,North America,Headphones,Electronics,6,114.63,0,687.78,360,327.78,PayPal,Marketplace
+ORD-100423,31/10/2025,Olivia Davis,Nigeria,Africa,Headphones,Electronics,1,128.3,0,128.3,60,68.3,Credit Card,Marketplace
+ORD-100424,23/08/2025,Sophia Moore,Canada,North America,Headphones,Electronics,5,120.28,0,601.4,300,301.4,Credit Card,Retail Store
+ORD-100425,19/01/2025,Sophia Anderson,UK,Europe,Monitor,Electronics,3,411.5,0,1234.5,840,394.5,PayPal,Marketplace
+ORD-100426,02/07/2025,Ethan Davis,Germany,Europe,Office Chair,Furniture,3,277.09,0.05,789.71,510,279.71,PayPal,Online
+ORD-100427,15/06/2025,Ethan Thomas,USA,North America,Desk,Furniture,1,337.26,0.05,320.4,200,120.4,PayPal,Online
+ORD-100428,13/05/2025,Sophia Smith,Australia,Oceania,Laptop,Electronics,3,815.21,0.2,1956.5,1800,156.5,Bank Transfer,Retail Store
+ORD-100429,23/05/2025,Noah Hall,India,Asia,Keyboard,Electronics,1,75.67,0.05,71.89,40,31.89,Credit Card,Retail Store
+ORD-100430,28/02/2025,Taylor Lewis,UK,Europe,Printer,Electronics,4,257.98,0.1,928.73,600,328.73,Debit Card,Online
+ORD-100431,18/11/2025,Riley Lewis,Nigeria,Africa,Laptop,Electronics,1,871.94,0.15,741.15,600,141.15,Credit Card,Online
+ORD-100432,08/01/2025,Liam Hall,Nigeria,Africa,Bookshelf,Furniture,1,195.72,0.15,166.36,110,56.36,Bank Transfer,Online
+ORD-100433,14/02/2025,Cameron Brown,UK,Europe,Printer,Electronics,3,252.96,0,758.88,450,308.88,Credit Card,Online
+ORD-100434,27/08/2025,Noah Davis,Australia,Oceania,Printer,Electronics,3,252.21,0.15,643.14,450,193.14,Credit Card,Online
+ORD-100435,25/09/2025,Sam Johnson,USA,North America,Laptop,Electronics,4,816.9,0.15,2777.46,2400,377.46,Credit Card,Online
+ORD-100436,17/10/2025,Emma Wilson,UK,Europe,Keyboard,Electronics,1,71.98,0.15,61.18,40,21.18,Debit Card,Marketplace
+ORD-100437,23/10/2025,Riley Walker,India,Asia,Bookshelf,Furniture,1,185.62,0,185.62,110,75.62,Credit Card,Online
+ORD-100438,08/02/2025,Morgan Young,Germany,Europe,Laptop,Electronics,2,915.28,0,1830.56,1200,630.56,Bank Transfer,Online
+ORD-100439,10/12/2025,Noah Hall,Australia,Oceania,Bookshelf,Furniture,1,187.97,0.05,178.57,110,68.57,Credit Card,Retail Store
+ORD-100440,08/05/2025,Olivia Smith,Kenya,Africa,Bookshelf,Furniture,3,192.55,0,577.65,330,247.65,Debit Card,Online
+ORD-100441,09/11/2025,Liam Johnson,Australia,Oceania,Monitor,Electronics,2,409.41,0,818.82,560,258.82,Bank Transfer,Retail Store
+ORD-100442,16/04/2025,Cameron Thomas,Australia,Oceania,Printer,Electronics,2,258.87,0.1,465.97,300,165.97,Credit Card,Online
+ORD-100443,23/03/2025,Avery Moore,Nigeria,Africa,Bookshelf,Furniture,3,197.47,0.05,562.79,330,232.79,PayPal,Online
+ORD-100444,22/10/2025,Olivia Smith,Germany,Europe,Headphones,Electronics,4,117.06,0,468.24,240,228.24,Credit Card,Retail Store
+ORD-100445,07/07/2025,Mia Clark,Canada,North America,Desk,Furniture,3,332.1,0,996.3,600,396.3,Credit Card,Retail Store
+ORD-100446,08/08/2025,Liam Taylor,Nigeria,Africa,Desk,Furniture,4,325.93,0.05,1238.53,800,438.53,Debit Card,Retail Store
+ORD-100447,04/09/2025,Taylor Clark,India,Asia,Desk,Furniture,1,342.45,0,342.45,200,142.45,Credit Card,Retail Store
+ORD-100448,15/12/2025,Daniel Anderson,Australia,Oceania,Office Chair,Furniture,1,269.13,0.05,255.67,170,85.67,Debit Card,Retail Store
+ORD-100449,14/02/2025,Morgan Smith,Australia,Oceania,Monitor,Electronics,4,439.96,0.05,1671.85,1120,551.85,Debit Card,Online
+ORD-100450,27/02/2025,Emma Clark,India,Asia,Monitor,Electronics,5,432.3,0.15,1837.28,1400,437.28,Debit Card,Online
+ORD-100451,05/06/2025,Olivia Hall,USA,North America,Office Chair,Furniture,1,276.62,0.05,262.79,170,92.79,PayPal,Retail Store
+ORD-100452,09/08/2025,Liam Anderson,Kenya,Africa,Desk,Furniture,2,340.98,0.05,647.86,400,247.86,Bank Transfer,Online
+ORD-100453,23/05/2025,Daniel Hall,USA,North America,Keyboard,Electronics,2,71.74,0.05,136.31,80,56.31,Debit Card,Online
+ORD-100454,01/07/2025,Emma Lewis,Australia,Oceania,Laptop,Electronics,4,831.31,0.1,2992.72,2400,592.72,Bank Transfer,Online
+ORD-100455,13/03/2025,Sophia Clark,UK,Europe,Desk,Furniture,3,317.19,0.05,903.99,600,303.99,Debit Card,Retail Store
+ORD-100456,09/08/2025,Jamie Wilson,Nigeria,Africa,Office Chair,Furniture,4,274.33,0.15,932.72,680,252.72,Bank Transfer,Online
+ORD-100457,19/07/2025,Sophia Johnson,USA,North America,Laptop,Electronics,1,810.83,0,810.83,600,210.83,Bank Transfer,Marketplace
+ORD-100458,05/06/2025,Jamie Anderson,UK,Europe,Laptop,Electronics,3,840.17,0,2520.51,1800,720.51,Debit Card,Online
+ORD-100459,02/08/2025,Olivia Moore,Canada,North America,Laptop,Electronics,2,808.64,0.15,1374.69,1200,174.69,Credit Card,Online
+ORD-100460,24/03/2025,Alex Martin,Canada,North America,Keyboard,Electronics,2,75.57,0,151.14,80,71.14,Credit Card,Marketplace
+ORD-100461,27/07/2025,Chris Young,Canada,North America,Keyboard,Electronics,1,73.59,0,73.59,40,33.59,Credit Card,Marketplace
+ORD-100462,25/01/2025,Cameron Martin,Australia,Oceania,Monitor,Electronics,1,402.28,0,402.28,280,122.28,Bank Transfer,Online
+ORD-100463,30/07/2025,Emma Brown,UK,Europe,Bookshelf,Furniture,4,181.87,0.1,654.73,440,214.73,Credit Card,Retail Store
+ORD-100464,09/10/2025,Morgan Anderson,Australia,Oceania,Monitor,Electronics,4,440.36,0,1761.44,1120,641.44,Credit Card,Online
+ORD-100465,03/09/2025,Olivia Davis,USA,North America,Monitor,Electronics,1,422.48,0,422.48,280,142.48,Credit Card,Retail Store
+ORD-100466,21/10/2025,Casey Taylor,Nigeria,Africa,Printer,Electronics,5,250.9,0,1254.5,750,504.5,PayPal,Online
+ORD-100467,30/10/2025,Riley Anderson,Australia,Oceania,Keyboard,Electronics,3,79.76,0,239.28,120,119.28,Bank Transfer,Online
+ORD-100468,18/05/2025,Casey Martin,USA,North America,Keyboard,Electronics,1,79.06,0.1,71.15,40,31.15,Debit Card,Online
+ORD-100469,25/02/2025,Jordan Smith,UK,Europe,Office Chair,Furniture,3,293.27,0,879.81,510,369.81,Bank Transfer,Retail Store
+ORD-100470,24/09/2025,Cameron Anderson,Germany,Europe,Keyboard,Electronics,1,76.79,0,76.79,40,36.79,PayPal,Online
+ORD-100471,11/06/2025,Riley Wilson,Australia,Oceania,Printer,Electronics,1,242.29,0.05,230.18,150,80.18,Debit Card,Online
+ORD-100472,10/07/2025,Taylor Walker,Canada,North America,Desk,Furniture,5,311.98,0.1,1403.91,1000,403.91,Bank Transfer,Online
+ORD-100473,30/09/2025,Noah Walker,USA,North America,Desk,Furniture,1,328.47,0,328.47,200,128.47,PayPal,Online
+ORD-100474,27/08/2025,Taylor Lewis,India,Asia,Office Chair,Furniture,3,289.19,0.1,780.81,510,270.81,Credit Card,Marketplace
+ORD-100475,01/11/2025,Jamie Taylor,Australia,Oceania,Laptop,Electronics,3,841.95,0.15,2146.97,1800,346.97,Bank Transfer,Retail Store
+ORD-100476,30/09/2025,Emma Brown,USA,North America,Desk,Furniture,4,318.85,0,1275.4,800,475.4,Bank Transfer,Online
+ORD-100477,03/12/2025,Chris Thomas,UK,Europe,Headphones,Electronics,1,128.67,0.05,122.24,60,62.24,Credit Card,Online
+ORD-100478,23/11/2025,Noah Wilson,UK,Europe,Monitor,Electronics,1,421.56,0,421.56,280,141.56,Credit Card,Online
+ORD-100479,20/11/2025,Mia Johnson,India,Asia,Headphones,Electronics,1,116.44,0.15,98.97,60,38.97,Debit Card,Online
+ORD-100480,07/10/2025,Avery Thomas,Australia,Oceania,Headphones,Electronics,1,127.05,0,127.05,60,67.05,Debit Card,Online
+ORD-100481,05/05/2025,Casey Wilson,USA,North America,Bookshelf,Furniture,2,193.62,0.1,348.52,220,128.52,Debit Card,Retail Store
+ORD-100482,20/06/2025,Noah Lewis,Kenya,Africa,Office Chair,Furniture,3,294.97,0,884.91,510,374.91,Credit Card,Marketplace
+ORD-100483,15/10/2025,Drew Davis,Canada,North America,Monitor,Electronics,1,413.98,0.05,393.28,280,113.28,Credit Card,Marketplace
+ORD-100484,19/11/2025,Olivia Moore,Canada,North America,Headphones,Electronics,3,119.06,0.05,339.32,180,159.32,Credit Card,Marketplace
+ORD-100485,18/10/2025,Drew Brown,Kenya,Africa,Laptop,Electronics,2,836.89,0.1,1506.4,1200,306.4,PayPal,Online
+ORD-100486,27/09/2025,Sophia Walker,USA,North America,Monitor,Electronics,1,408.89,0.15,347.56,280,67.56,Credit Card,Online
+ORD-100487,13/09/2025,Emma Moore,Australia,Oceania,Desk,Furniture,4,332.64,0,1330.56,800,530.56,Bank Transfer,Retail Store
+ORD-100488,10/11/2025,Liam Johnson,Kenya,Africa,Printer,Electronics,4,232.98,0,931.92,600,331.92,Credit Card,Online
+ORD-100489,26/03/2025,Jordan Lewis,Nigeria,Africa,Desk,Furniture,6,318.53,0,1911.18,1200,711.18,Credit Card,Marketplace
+ORD-100490,27/11/2025,Liam Taylor,India,Asia,Laptop,Electronics,1,888.29,0.1,799.46,600,199.46,Bank Transfer,Online
+ORD-100491,27/08/2025,Jordan Martin,India,Asia,Monitor,Electronics,3,452.17,0,1356.51,840,516.51,Credit Card,Retail Store
+ORD-100492,13/03/2025,Chris Walker,Australia,Oceania,Printer,Electronics,2,229.58,0.05,436.2,300,136.2,PayPal,Marketplace
+ORD-100493,10/09/2025,Morgan Lewis,USA,North America,Bookshelf,Furniture,1,182.72,0,182.72,110,72.72,Credit Card,Retail Store
+ORD-100494,11/04/2025,Casey Walker,Kenya,Africa,Printer,Electronics,1,229.6,0.1,206.64,150,56.64,Credit Card,Online
+ORD-100495,02/10/2025,Daniel Moore,Nigeria,Africa,Monitor,Electronics,1,448.73,0,448.73,280,168.73,Credit Card,Online
+ORD-100496,12/08/2025,Jordan Walker,India,Asia,Monitor,Electronics,1,420.4,0,420.4,280,140.4,Credit Card,Marketplace
+ORD-100497,22/12/2025,Sophia Taylor,Kenya,Africa,Keyboard,Electronics,5,73.49,0,367.45,200,167.45,Credit Card,Retail Store
+ORD-100498,28/05/2025,Sam Wilson,USA,North America,Bookshelf,Furniture,4,184.36,0,737.44,440,297.44,Credit Card,Online
+ORD-100499,27/10/2025,Sophia Martin,Canada,North America,Office Chair,Furniture,6,296.59,0,1779.54,1020,759.54,Bank Transfer,Retail Store
+ORD-100500,07/12/2025,Daniel Martin,Nigeria,Africa,Printer,Electronics,2,247.32,0.05,469.91,300,169.91,Debit Card,Online
+ORD-100501,30/09/2025,Alex Clark,India,Asia,Bookshelf,Furniture,3,191.11,0,573.33,330,243.33,Debit Card,Retail Store
+ORD-100502,02/11/2025,Emma Lewis,Germany,Europe,Printer,Electronics,2,234.08,0.05,444.75,300,144.75,Bank Transfer,Retail Store
+ORD-100503,16/04/2025,Sam Clark,India,Asia,Keyboard,Electronics,1,80.8,0,80.8,40,40.8,PayPal,Online
+ORD-100504,10/10/2025,Daniel Taylor,USA,North America,Desk,Furniture,3,333.06,0.05,949.22,600,349.22,Credit Card,Online
+ORD-100505,23/09/2025,Drew Young,Germany,Europe,Monitor,Electronics,1,439.79,0.05,417.8,280,137.8,Credit Card,Online
+ORD-100506,22/01/2025,Jordan Lewis,USA,North America,Keyboard,Electronics,3,80.97,0,242.91,120,122.91,Credit Card,Online
+ORD-100507,20/07/2025,Jordan Smith,Canada,North America,Bookshelf,Furniture,4,192.42,0.1,692.71,440,252.71,Bank Transfer,Retail Store
+ORD-100508,08/06/2025,Daniel Walker,USA,North America,Desk,Furniture,2,333.76,0.1,600.77,400,200.77,Credit Card,Online
+ORD-100509,20/04/2025,Chris Taylor,Kenya,Africa,Office Chair,Furniture,3,294.04,0,882.12,510,372.12,Credit Card,Retail Store
+ORD-100510,22/01/2025,Alex Walker,Kenya,Africa,Printer,Electronics,3,252.72,0.15,644.44,450,194.44,Bank Transfer,Marketplace
+ORD-100511,14/07/2025,Riley Brown,Australia,Oceania,Bookshelf,Furniture,4,203.33,0,813.32,440,373.32,Debit Card,Online
+ORD-100512,17/07/2025,Noah Young,Germany,Europe,Bookshelf,Furniture,5,183.65,0.1,826.42,550,276.42,Credit Card,Marketplace
+ORD-100513,13/02/2025,Noah Young,Canada,North America,Office Chair,Furniture,1,287.31,0,287.31,170,117.31,PayPal,Online
+ORD-100514,21/12/2025,Riley Walker,USA,North America,Keyboard,Electronics,1,76.52,0,76.52,40,36.52,PayPal,Retail Store
+ORD-100515,20/07/2025,Casey Lewis,Nigeria,Africa,Desk,Furniture,4,336.9,0,1347.6,800,547.6,Credit Card,Online
+ORD-100516,09/05/2025,Sam Walker,Germany,Europe,Keyboard,Electronics,1,80.88,0,80.88,40,40.88,Credit Card,Online
+ORD-100517,20/01/2025,Olivia Johnson,Kenya,Africa,Headphones,Electronics,4,118.77,0,475.08,240,235.08,Bank Transfer,Retail Store
+ORD-100518,29/01/2025,Chris Lewis,India,Asia,Headphones,Electronics,2,124.4,0.1,223.92,120,103.92,Debit Card,Online
+ORD-100519,16/06/2025,Mia Walker,Germany,Europe,Headphones,Electronics,2,123.66,0.1,222.59,120,102.59,Credit Card,Online
+ORD-100520,21/02/2025,Riley Martin,Australia,Oceania,Office Chair,Furniture,4,269.33,0,1077.32,680,397.32,Debit Card,Online
+ORD-100521,26/10/2025,Sophia Lewis,Nigeria,Africa,Keyboard,Electronics,4,79.37,0.05,301.61,160,141.61,Debit Card,Online
+ORD-100522,24/09/2025,Jamie Hall,Canada,North America,Monitor,Electronics,4,426.2,0,1704.8,1120,584.8,Debit Card,Retail Store
+ORD-100523,08/08/2025,Avery Clark,USA,North America,Headphones,Electronics,4,125.39,0.05,476.48,240,236.48,PayPal,Marketplace
+ORD-100524,03/06/2025,Liam Moore,Kenya,Africa,Desk,Furniture,2,331.13,0.15,562.92,400,162.92,PayPal,Marketplace
+ORD-100525,23/02/2025,Noah Martin,USA,North America,Keyboard,Electronics,3,78.62,0,235.86,120,115.86,Debit Card,Marketplace
+ORD-100526,03/08/2025,Sophia Smith,Nigeria,Africa,Printer,Electronics,2,238.78,0.05,453.68,300,153.68,Debit Card,Online
+ORD-100527,13/10/2025,Mia Young,Germany,Europe,Laptop,Electronics,1,911.49,0,911.49,600,311.49,Debit Card,Marketplace
+ORD-100528,24/12/2025,Jamie Anderson,Canada,North America,Headphones,Electronics,3,124.11,0,372.33,180,192.33,Debit Card,Retail Store
+ORD-100529,03/12/2025,Ethan Taylor,Canada,North America,Laptop,Electronics,1,874,0.05,830.3,600,230.3,PayPal,Online
+ORD-100530,24/08/2025,Morgan Smith,Nigeria,Africa,Keyboard,Electronics,1,73.29,0.1,65.96,40,25.96,Credit Card,Online
+ORD-100531,08/07/2025,Sam Clark,UK,Europe,Bookshelf,Furniture,2,193.84,0.1,348.91,220,128.91,Debit Card,Online
+ORD-100532,05/06/2025,Morgan Wilson,Germany,Europe,Office Chair,Furniture,1,276.72,0,276.72,170,106.72,Credit Card,Marketplace
+ORD-100533,08/02/2025,Chris Hall,USA,North America,Keyboard,Electronics,1,78.97,0,78.97,40,38.97,Credit Card,Online
+ORD-100534,12/09/2025,Mia Taylor,Australia,Oceania,Office Chair,Furniture,1,295.96,0.1,266.36,170,96.36,Bank Transfer,Online
+ORD-100535,27/03/2025,Drew Smith,UK,Europe,Office Chair,Furniture,2,261.63,0.2,418.61,340,78.61,Credit Card,Retail Store
+ORD-100536,16/12/2025,Alex Clark,UK,Europe,Printer,Electronics,6,253.41,0,1520.46,900,620.46,Credit Card,Online
+ORD-100537,29/06/2025,Ethan Lewis,Australia,Oceania,Office Chair,Furniture,1,268.02,0,268.02,170,98.02,Bank Transfer,Marketplace
+ORD-100538,30/12/2025,Olivia Johnson,UK,Europe,Printer,Electronics,4,246.35,0.1,886.86,600,286.86,Bank Transfer,Retail Store
+ORD-100539,21/06/2025,Liam Young,Australia,Oceania,Desk,Furniture,2,309.37,0,618.74,400,218.74,Debit Card,Retail Store
+ORD-100540,08/08/2025,Casey Anderson,UK,Europe,Printer,Electronics,2,253.57,0,507.14,300,207.14,Bank Transfer,Online
+ORD-100541,26/11/2025,Taylor Brown,UK,Europe,Printer,Electronics,2,228.39,0.05,433.94,300,133.94,Bank Transfer,Online
+ORD-100542,04/02/2025,Riley Thomas,Kenya,Africa,Keyboard,Electronics,2,75.96,0.05,144.32,80,64.32,PayPal,Online
+ORD-100543,28/06/2025,Liam Moore,Nigeria,Africa,Headphones,Electronics,1,122.83,0.05,116.69,60,56.69,Debit Card,Marketplace
+ORD-100544,23/11/2025,Casey Lewis,Australia,Oceania,Printer,Electronics,1,244.89,0,244.89,150,94.89,Credit Card,Marketplace
+ORD-100545,20/04/2025,Noah Hall,India,Asia,Bookshelf,Furniture,2,204.81,0.15,348.18,220,128.18,Credit Card,Online
+ORD-100546,20/06/2025,Sam Hall,Kenya,Africa,Printer,Electronics,3,256.96,0,770.88,450,320.88,Credit Card,Retail Store
+ORD-100547,15/11/2025,Riley Davis,USA,North America,Keyboard,Electronics,3,76.02,0,228.06,120,108.06,Debit Card,Online
+ORD-100548,06/09/2025,Liam Anderson,Canada,North America,Bookshelf,Furniture,6,198.5,0.05,1131.45,660,471.45,Debit Card,Online
+ORD-100549,25/01/2025,Mia Johnson,Germany,Europe,Desk,Furniture,3,333.58,0,1000.74,600,400.74,Credit Card,Retail Store
+ORD-100550,24/04/2025,Noah Hall,Australia,Oceania,Laptop,Electronics,3,843.4,0.1,2277.18,1800,477.18,PayPal,Online
+ORD-100551,21/08/2025,Sophia Johnson,USA,North America,Headphones,Electronics,3,114.26,0.05,325.64,180,145.64,Bank Transfer,Online
+ORD-100552,06/07/2025,Casey Martin,USA,North America,Headphones,Electronics,2,116.83,0,233.66,120,113.66,PayPal,Retail Store
+ORD-100553,17/06/2025,Liam Lewis,India,Asia,Desk,Furniture,2,350.85,0.05,666.62,400,266.62,Bank Transfer,Online
+ORD-100554,15/02/2025,Cameron Smith,India,Asia,Keyboard,Electronics,3,75.48,0.05,215.12,120,95.12,Credit Card,Online
+ORD-100555,09/12/2025,Emma Smith,UK,Europe,Headphones,Electronics,2,123.26,0,246.52,120,126.52,Bank Transfer,Online
+ORD-100556,13/12/2025,Drew Anderson,Nigeria,Africa,Keyboard,Electronics,1,71.5,0.1,64.35,40,24.35,Bank Transfer,Retail Store
+ORD-100557,14/05/2025,Riley Walker,UK,Europe,Laptop,Electronics,3,829.13,0,2487.39,1800,687.39,Debit Card,Online
+ORD-100558,11/04/2025,Ethan Moore,Kenya,Africa,Office Chair,Furniture,1,267.78,0.05,254.39,170,84.39,Debit Card,Online
+ORD-100559,07/02/2025,Taylor Smith,Kenya,Africa,Office Chair,Furniture,2,265.85,0,531.7,340,191.7,Credit Card,Retail Store
+ORD-100560,29/08/2025,Mia Smith,Germany,Europe,Office Chair,Furniture,1,284.2,0,284.2,170,114.2,PayPal,Retail Store
+ORD-100561,11/12/2025,Sophia Moore,India,Asia,Monitor,Electronics,3,432.4,0.1,1167.48,840,327.48,Debit Card,Online
+ORD-100562,02/12/2025,Jamie Wilson,Germany,Europe,Bookshelf,Furniture,1,194.21,0,194.21,110,84.21,Debit Card,Retail Store
+ORD-100563,17/02/2025,Ethan Lewis,UK,Europe,Printer,Electronics,3,250.3,0.1,675.81,450,225.81,Credit Card,Online
+ORD-100564,15/01/2025,Olivia Young,Germany,Europe,Printer,Electronics,4,237.16,0,948.64,600,348.64,Credit Card,Marketplace
+ORD-100565,04/09/2025,Morgan Martin,Nigeria,Africa,Keyboard,Electronics,4,79.21,0.15,269.31,160,109.31,Bank Transfer,Online
+ORD-100566,15/04/2025,Sam Brown,India,Asia,Headphones,Electronics,1,128,0,128,60,68,PayPal,Online
+ORD-100567,13/06/2025,Daniel Anderson,India,Asia,Office Chair,Furniture,3,288.35,0,865.05,510,355.05,Credit Card,Online
+ORD-100568,06/10/2025,Sophia Wilson,Australia,Oceania,Bookshelf,Furniture,4,190.03,0,760.12,440,320.12,Bank Transfer,Retail Store
+ORD-100569,03/10/2025,Avery Lewis,Germany,Europe,Printer,Electronics,1,250.75,0.05,238.21,150,88.21,Credit Card,Online
+ORD-100570,05/07/2025,Sophia Hall,UK,Europe,Monitor,Electronics,1,433.73,0,433.73,280,153.73,Credit Card,Retail Store
+ORD-100571,04/08/2025,Noah Smith,USA,North America,Keyboard,Electronics,4,78.71,0,314.84,160,154.84,Bank Transfer,Retail Store
+ORD-100572,30/01/2025,Riley Johnson,UK,Europe,Laptop,Electronics,1,819.55,0.05,778.57,600,178.57,Credit Card,Marketplace
+ORD-100573,11/02/2025,Morgan Moore,USA,North America,Printer,Electronics,5,252.49,0.1,1136.21,750,386.21,PayPal,Online
+ORD-100574,14/05/2025,Sophia Hall,Nigeria,Africa,Desk,Furniture,2,336.03,0.05,638.46,400,238.46,Credit Card,Marketplace
+ORD-100575,15/06/2025,Avery Hall,Nigeria,Africa,Desk,Furniture,2,337.59,0,675.18,400,275.18,PayPal,Marketplace
+ORD-100576,22/04/2025,Riley Thomas,India,Asia,Desk,Furniture,4,338.54,0,1354.16,800,554.16,Bank Transfer,Retail Store
+ORD-100577,03/09/2025,Avery Lewis,Nigeria,Africa,Bookshelf,Furniture,4,185.88,0.15,631.99,440,191.99,Credit Card,Marketplace
+ORD-100578,25/10/2025,Olivia Brown,Nigeria,Africa,Laptop,Electronics,1,863.98,0.1,777.58,600,177.58,Bank Transfer,Marketplace
+ORD-100579,03/01/2025,Olivia Lewis,Germany,Europe,Printer,Electronics,1,248.94,0.1,224.05,150,74.05,Bank Transfer,Online
+ORD-100580,19/02/2025,Ethan Davis,Kenya,Africa,Desk,Furniture,2,323.53,0,647.06,400,247.06,Credit Card,Retail Store
+ORD-100581,09/07/2025,Daniel Smith,Australia,Oceania,Office Chair,Furniture,2,275.3,0.1,495.54,340,155.54,Credit Card,Online
+ORD-100582,20/03/2025,Jamie Hall,Germany,Europe,Desk,Furniture,2,327.37,0.05,622,400,222,PayPal,Online
+ORD-100583,28/07/2025,Taylor Wilson,Nigeria,Africa,Desk,Furniture,4,328.52,0.05,1248.38,800,448.38,Bank Transfer,Retail Store
+ORD-100584,23/04/2025,Avery Johnson,UK,Europe,Laptop,Electronics,1,910.36,0,910.36,600,310.36,Bank Transfer,Online
+ORD-100585,21/11/2025,Cameron Wilson,Nigeria,Africa,Keyboard,Electronics,1,76.81,0,76.81,40,36.81,PayPal,Online
+ORD-100586,29/12/2025,Jamie Clark,Germany,Europe,Desk,Furniture,4,315.84,0.1,1137.02,800,337.02,Credit Card,Retail Store
+ORD-100587,07/04/2025,Alex Lewis,USA,North America,Bookshelf,Furniture,2,182.3,0,364.6,220,144.6,Credit Card,Retail Store
+ORD-100588,07/07/2025,Olivia Walker,Kenya,Africa,Desk,Furniture,1,316.77,0,316.77,200,116.77,Credit Card,Online
+ORD-100589,23/04/2025,Sophia Hall,Nigeria,Africa,Headphones,Electronics,3,127.44,0.05,363.2,180,183.2,Bank Transfer,Online
+ORD-100590,19/11/2025,Alex Davis,Australia,Oceania,Bookshelf,Furniture,2,187.4,0.05,356.06,220,136.06,PayPal,Marketplace
+ORD-100591,29/12/2025,Drew Brown,Nigeria,Africa,Office Chair,Furniture,2,272.9,0.1,491.22,340,151.22,Credit Card,Online
+ORD-100592,20/01/2025,Emma Anderson,India,Asia,Headphones,Electronics,1,117.76,0,117.76,60,57.76,Credit Card,Retail Store
+ORD-100593,12/11/2025,Sophia Moore,UK,Europe,Desk,Furniture,2,347,0.1,624.6,400,224.6,Debit Card,Marketplace
+ORD-100594,07/06/2025,Emma Hall,India,Asia,Monitor,Electronics,2,416.49,0,832.98,560,272.98,PayPal,Retail Store
+ORD-100595,26/02/2025,Jamie Wilson,Germany,Europe,Monitor,Electronics,5,443.84,0,2219.2,1400,819.2,Credit Card,Online
+ORD-100596,04/10/2025,Liam Lewis,Nigeria,Africa,Bookshelf,Furniture,1,180.83,0.1,162.75,110,52.75,Bank Transfer,Marketplace
+ORD-100597,20/06/2025,Chris Young,USA,North America,Laptop,Electronics,4,874.45,0.2,2798.24,2400,398.24,PayPal,Marketplace
+ORD-100598,25/07/2025,Olivia Wilson,Kenya,Africa,Bookshelf,Furniture,1,184.64,0.05,175.41,110,65.41,Bank Transfer,Retail Store
+ORD-100599,27/12/2025,Ethan Taylor,Germany,Europe,Laptop,Electronics,1,817.16,0.05,776.3,600,176.3,Debit Card,Online
+ORD-100600,01/12/2025,Casey Walker,Germany,Europe,Headphones,Electronics,2,116.79,0,233.58,120,113.58,Debit Card,Marketplace
+ORD-100601,02/12/2025,Emma Brown,Australia,Oceania,Desk,Furniture,2,323.22,0.1,581.8,400,181.8,Credit Card,Online
+ORD-100602,18/06/2025,Sam Anderson,USA,North America,Printer,Electronics,3,249.73,0.1,674.27,450,224.27,Bank Transfer,Retail Store
+ORD-100603,29/06/2025,Morgan Wilson,India,Asia,Desk,Furniture,2,333.95,0,667.9,400,267.9,Debit Card,Online
+ORD-100604,15/03/2025,Liam Moore,UK,Europe,Printer,Electronics,3,257.11,0.05,732.76,450,282.76,Debit Card,Retail Store
+ORD-100605,11/10/2025,Morgan Johnson,USA,North America,Bookshelf,Furniture,2,184.95,0.1,332.91,220,112.91,PayPal,Online
+ORD-100606,03/08/2025,Casey Clark,Germany,Europe,Desk,Furniture,1,344.82,0.05,327.58,200,127.58,Credit Card,Online
+ORD-100607,10/12/2025,Jordan Moore,India,Asia,Desk,Furniture,2,347.23,0,694.46,400,294.46,Credit Card,Marketplace
+ORD-100608,20/11/2025,Sam Wilson,USA,North America,Laptop,Electronics,1,830.24,0.15,705.7,600,105.7,Debit Card,Marketplace
+ORD-100609,01/06/2025,Mia Johnson,Canada,North America,Office Chair,Furniture,4,272.03,0.1,979.31,680,299.31,Credit Card,Marketplace
+ORD-100610,06/06/2025,Sam Lewis,Australia,Oceania,Keyboard,Electronics,6,77.07,0.1,416.18,240,176.18,Credit Card,Online
+ORD-100611,28/09/2025,Noah Lewis,Germany,Europe,Office Chair,Furniture,4,278.67,0,1114.68,680,434.68,Debit Card,Marketplace
+ORD-100612,11/05/2025,Olivia Thomas,Canada,North America,Laptop,Electronics,5,891.72,0.05,4235.67,3000,1235.67,Credit Card,Online
+ORD-100613,24/02/2025,Noah Hall,Canada,North America,Headphones,Electronics,6,123.38,0.1,666.25,360,306.25,Debit Card,Online
+ORD-100614,06/11/2025,Riley Walker,Kenya,Africa,Laptop,Electronics,1,881.95,0,881.95,600,281.95,Debit Card,Retail Store
+ORD-100615,28/05/2025,Avery Smith,India,Asia,Printer,Electronics,3,234.37,0.05,667.95,450,217.95,Bank Transfer,Online
+ORD-100616,04/03/2025,Chris Hall,UK,Europe,Keyboard,Electronics,2,77.23,0,154.46,80,74.46,Credit Card,Marketplace
+ORD-100617,26/09/2025,Liam Davis,Kenya,Africa,Bookshelf,Furniture,3,193.12,0.05,550.39,330,220.39,Credit Card,Online
+ORD-100618,28/03/2025,Daniel Davis,Australia,Oceania,Office Chair,Furniture,3,280.94,0.1,758.54,510,248.54,Bank Transfer,Retail Store
+ORD-100619,25/09/2025,Chris Walker,India,Asia,Monitor,Electronics,4,415.89,0,1663.56,1120,543.56,Debit Card,Online
+ORD-100620,22/12/2025,Sophia Thomas,Kenya,Africa,Monitor,Electronics,2,431.61,0.1,776.9,560,216.9,Debit Card,Marketplace
+ORD-100621,19/09/2025,Casey Clark,Germany,Europe,Headphones,Electronics,4,119.56,0,478.24,240,238.24,Credit Card,Marketplace
+ORD-100622,10/03/2025,Olivia Martin,Australia,Oceania,Office Chair,Furniture,2,268.27,0.05,509.71,340,169.71,Credit Card,Online
+ORD-100623,24/09/2025,Noah Martin,Kenya,Africa,Bookshelf,Furniture,5,188.06,0.1,846.27,550,296.27,PayPal,Online
+ORD-100624,26/08/2025,Sophia Smith,Canada,North America,Laptop,Electronics,4,895,0,3580,2400,1180,Debit Card,Retail Store
+ORD-100625,20/12/2025,Jordan Lewis,Canada,North America,Office Chair,Furniture,3,287.26,0.15,732.51,510,222.51,Bank Transfer,Retail Store
+ORD-100626,05/05/2025,Riley Martin,UK,Europe,Headphones,Electronics,3,121.64,0.05,346.67,180,166.67,Credit Card,Online
+ORD-100627,10/01/2025,Noah Taylor,Nigeria,Africa,Keyboard,Electronics,1,75.01,0.1,67.51,40,27.51,Bank Transfer,Marketplace
+ORD-100628,24/08/2025,Alex Martin,Canada,North America,Desk,Furniture,5,329.98,0.15,1402.42,1000,402.42,Bank Transfer,Online
+ORD-100629,13/02/2025,Sophia Johnson,Kenya,Africa,Keyboard,Electronics,4,71.73,0,286.92,160,126.92,Credit Card,Online
+ORD-100630,30/04/2025,Alex Clark,India,Asia,Office Chair,Furniture,2,269.71,0.05,512.45,340,172.45,Bank Transfer,Retail Store
+ORD-100631,01/09/2025,Daniel Martin,India,Asia,Keyboard,Electronics,1,76.17,0,76.17,40,36.17,Credit Card,Retail Store
+ORD-100632,27/11/2025,Avery Thomas,Australia,Oceania,Monitor,Electronics,2,419.91,0,839.82,560,279.82,PayPal,Online
+ORD-100633,24/06/2025,Ethan Hall,USA,North America,Office Chair,Furniture,1,281.9,0,281.9,170,111.9,Credit Card,Retail Store
+ORD-100634,30/01/2025,Morgan Smith,Germany,Europe,Office Chair,Furniture,1,295.79,0.1,266.21,170,96.21,Debit Card,Retail Store
+ORD-100635,20/11/2025,Liam Smith,Canada,North America,Headphones,Electronics,3,117.14,0,351.42,180,171.42,Credit Card,Online
+ORD-100636,18/01/2025,Taylor Martin,USA,North America,Bookshelf,Furniture,3,186.67,0.05,532.01,330,202.01,Debit Card,Online
+ORD-100637,12/09/2025,Chris Johnson,Germany,Europe,Monitor,Electronics,1,419.58,0.15,356.64,280,76.64,Credit Card,Online
+ORD-100638,29/03/2025,Emma Wilson,Germany,Europe,Bookshelf,Furniture,1,200.31,0.1,180.28,110,70.28,Debit Card,Online
+ORD-100639,04/11/2025,Avery Thomas,Nigeria,Africa,Laptop,Electronics,1,829.8,0,829.8,600,229.8,Debit Card,Online
+ORD-100640,23/05/2025,Casey Anderson,India,Asia,Keyboard,Electronics,4,73.45,0.05,279.11,160,119.11,Credit Card,Online
+ORD-100641,25/08/2025,Morgan Thomas,USA,North America,Headphones,Electronics,4,128.85,0,515.4,240,275.4,Debit Card,Online
+ORD-100642,27/10/2025,Chris Wilson,Germany,Europe,Monitor,Electronics,4,403.73,0.15,1372.68,1120,252.68,PayPal,Online
+ORD-100643,08/11/2025,Mia Martin,UK,Europe,Office Chair,Furniture,6,277.17,0,1663.02,1020,643.02,Credit Card,Marketplace
+ORD-100644,20/11/2025,Sophia Martin,Nigeria,Africa,Laptop,Electronics,1,909.56,0.05,864.08,600,264.08,Credit Card,Online
+ORD-100645,18/09/2025,Ethan Thomas,Nigeria,Africa,Headphones,Electronics,1,128.89,0,128.89,60,68.89,Credit Card,Online
+ORD-100646,08/04/2025,Taylor Hall,Germany,Europe,Office Chair,Furniture,2,267.71,0.1,481.88,340,141.88,Credit Card,Online
+ORD-100647,15/04/2025,Drew Lewis,Kenya,Africa,Keyboard,Electronics,2,73.61,0,147.22,80,67.22,Credit Card,Online
+ORD-100648,01/01/2025,Taylor Hall,Australia,Oceania,Bookshelf,Furniture,2,181.92,0,363.84,220,143.84,PayPal,Online
+ORD-100649,18/02/2025,Morgan Anderson,Kenya,Africa,Desk,Furniture,4,320.68,0,1282.72,800,482.72,Credit Card,Marketplace
+ORD-100650,20/08/2025,Sophia Clark,Australia,Oceania,Desk,Furniture,1,350.11,0,350.11,200,150.11,Debit Card,Marketplace
+ORD-100651,21/03/2025,Chris Hall,USA,North America,Printer,Electronics,3,257.29,0,771.87,450,321.87,PayPal,Retail Store
+ORD-100652,08/12/2025,Morgan Young,Canada,North America,Laptop,Electronics,6,819.78,0,4918.68,3600,1318.68,PayPal,Online
+ORD-100653,03/09/2025,Emma Smith,Nigeria,Africa,Keyboard,Electronics,1,76.25,0.2,61,40,21,Debit Card,Marketplace
+ORD-100654,14/02/2025,Mia Lewis,Canada,North America,Desk,Furniture,1,341.71,0,341.71,200,141.71,Credit Card,Online
+ORD-100655,09/03/2025,Cameron Walker,UK,Europe,Monitor,Electronics,4,423.94,0,1695.76,1120,575.76,Credit Card,Online
+ORD-100656,10/01/2025,Olivia Anderson,Kenya,Africa,Headphones,Electronics,6,115.51,0,693.06,360,333.06,Bank Transfer,Retail Store
+ORD-100657,18/02/2025,Riley Taylor,USA,North America,Laptop,Electronics,4,859.18,0,3436.72,2400,1036.72,Debit Card,Online
+ORD-100658,02/11/2025,Olivia Davis,USA,North America,Office Chair,Furniture,4,276.72,0.15,940.85,680,260.85,Debit Card,Online
+ORD-100659,19/09/2025,Liam Thomas,USA,North America,Laptop,Electronics,4,911.96,0.05,3465.45,2400,1065.45,PayPal,Online
+ORD-100660,01/07/2025,Sophia Smith,USA,North America,Keyboard,Electronics,1,74.41,0.05,70.69,40,30.69,PayPal,Online
+ORD-100661,04/10/2025,Mia Anderson,UK,Europe,Laptop,Electronics,2,847.03,0.1,1524.65,1200,324.65,Credit Card,Online
+ORD-100662,20/12/2025,Mia Smith,Nigeria,Africa,Bookshelf,Furniture,6,188.77,0.15,962.73,660,302.73,PayPal,Online
+ORD-100663,18/11/2025,Daniel Moore,UK,Europe,Headphones,Electronics,3,123.52,0.05,352.03,180,172.03,Credit Card,Online
+ORD-100664,04/03/2025,Avery Smith,Kenya,Africa,Keyboard,Electronics,3,79.7,0,239.1,120,119.1,PayPal,Online
+ORD-100665,16/07/2025,Noah Wilson,Kenya,Africa,Keyboard,Electronics,4,73.9,0,295.6,160,135.6,Debit Card,Marketplace
+ORD-100666,25/09/2025,Alex Young,Canada,North America,Laptop,Electronics,4,809.01,0.1,2912.44,2400,512.44,Credit Card,Online
+ORD-100667,07/07/2025,Alex Wilson,Nigeria,Africa,Headphones,Electronics,3,126.64,0,379.92,180,199.92,Credit Card,Online
+ORD-100668,16/02/2025,Liam Hall,UK,Europe,Headphones,Electronics,1,122,0,122,60,62,Credit Card,Retail Store
+ORD-100669,16/06/2025,Jordan Anderson,USA,North America,Office Chair,Furniture,1,294.35,0.05,279.63,170,109.63,Debit Card,Online
+ORD-100670,20/07/2025,Morgan Anderson,Kenya,Africa,Bookshelf,Furniture,6,186.62,0.15,951.76,660,291.76,PayPal,Online
+ORD-100671,23/07/2025,Jamie Anderson,Canada,North America,Headphones,Electronics,1,115.86,0,115.86,60,55.86,Credit Card,Online
+ORD-100672,01/01/2025,Drew Taylor,Australia,Oceania,Laptop,Electronics,1,886.08,0.15,753.17,600,153.17,Bank Transfer,Online
+ORD-100673,15/03/2025,Cameron Young,Australia,Oceania,Desk,Furniture,3,325.87,0.1,879.85,600,279.85,PayPal,Online
+ORD-100674,29/04/2025,Jordan Lewis,Canada,North America,Desk,Furniture,2,320.51,0.2,512.82,400,112.82,Bank Transfer,Marketplace
+ORD-100675,23/12/2025,Taylor Walker,Canada,North America,Bookshelf,Furniture,1,204.05,0,204.05,110,94.05,Credit Card,Online
+ORD-100676,07/01/2025,Daniel Taylor,Nigeria,Africa,Bookshelf,Furniture,4,198.17,0,792.68,440,352.68,Bank Transfer,Retail Store
+ORD-100677,07/08/2025,Taylor Brown,Nigeria,Africa,Headphones,Electronics,1,127.6,0.1,114.84,60,54.84,Debit Card,Online
+ORD-100678,25/06/2025,Morgan Hall,Kenya,Africa,Headphones,Electronics,1,126.13,0.05,119.82,60,59.82,PayPal,Online
+ORD-100679,30/09/2025,Mia Davis,Germany,Europe,Bookshelf,Furniture,1,205.03,0.05,194.78,110,84.78,Credit Card,Online
+ORD-100680,22/01/2025,Casey Davis,Australia,Oceania,Headphones,Electronics,4,120.96,0,483.84,240,243.84,PayPal,Online
+ORD-100681,09/11/2025,Riley Taylor,Nigeria,Africa,Office Chair,Furniture,3,266.84,0.15,680.44,510,170.44,Debit Card,Online
+ORD-100682,16/09/2025,Drew Martin,India,Asia,Office Chair,Furniture,2,267.48,0.1,481.46,340,141.46,Bank Transfer,Online
+ORD-100683,31/01/2025,Daniel Moore,UK,Europe,Office Chair,Furniture,2,267.75,0,535.5,340,195.5,Credit Card,Online
+ORD-100684,18/07/2025,Noah Taylor,Australia,Oceania,Laptop,Electronics,2,841.11,0,1682.22,1200,482.22,Credit Card,Marketplace
+ORD-100685,06/12/2025,Daniel Smith,USA,North America,Printer,Electronics,3,246.01,0.1,664.23,450,214.23,Debit Card,Online
+ORD-100686,01/10/2025,Drew Young,Kenya,Africa,Desk,Furniture,1,321.11,0,321.11,200,121.11,Credit Card,Retail Store
+ORD-100687,23/03/2025,Jordan Hall,Australia,Oceania,Laptop,Electronics,1,861.48,0.05,818.41,600,218.41,Bank Transfer,Online
+ORD-100688,21/11/2025,Mia Clark,Australia,Oceania,Keyboard,Electronics,4,77.35,0.1,278.46,160,118.46,Credit Card,Online
+ORD-100689,16/02/2025,Emma Martin,Nigeria,Africa,Headphones,Electronics,2,123.52,0.15,209.98,120,89.98,Debit Card,Retail Store
+ORD-100690,05/03/2025,Taylor Thomas,Nigeria,Africa,Desk,Furniture,3,350.9,0,1052.7,600,452.7,Credit Card,Marketplace
+ORD-100691,07/04/2025,Jamie Hall,Kenya,Africa,Monitor,Electronics,1,421.27,0,421.27,280,141.27,Credit Card,Online
+ORD-100692,21/04/2025,Avery Smith,Canada,North America,Headphones,Electronics,3,124.14,0,372.42,180,192.42,PayPal,Online
+ORD-100693,10/07/2025,Casey Moore,UK,Europe,Monitor,Electronics,4,424.08,0.1,1526.69,1120,406.69,Debit Card,Online
+ORD-100694,08/07/2025,Emma Taylor,Australia,Oceania,Monitor,Electronics,1,449.86,0,449.86,280,169.86,PayPal,Marketplace
+ORD-100695,06/08/2025,Riley Wilson,Nigeria,Africa,Office Chair,Furniture,3,270.84,0.1,731.27,510,221.27,Credit Card,Retail Store
+ORD-100696,14/09/2025,Liam Anderson,India,Asia,Office Chair,Furniture,1,296.03,0.1,266.43,170,96.43,Debit Card,Marketplace
+ORD-100697,04/06/2025,Sam Thomas,Kenya,Africa,Monitor,Electronics,1,444.8,0,444.8,280,164.8,Credit Card,Retail Store
+ORD-100698,16/11/2025,Daniel Thomas,Kenya,Africa,Office Chair,Furniture,1,262.14,0.05,249.03,170,79.03,PayPal,Online
+ORD-100699,06/09/2025,Liam Davis,Nigeria,Africa,Bookshelf,Furniture,3,199.1,0.05,567.43,330,237.43,Credit Card,Online
+ORD-100700,08/12/2025,Liam Taylor,Australia,Oceania,Printer,Electronics,2,244.39,0,488.78,300,188.78,Credit Card,Marketplace
+ORD-100701,14/03/2025,Olivia Clark,USA,North America,Printer,Electronics,6,241.75,0.15,1232.92,900,332.92,PayPal,Retail Store
+ORD-100702,09/08/2025,Noah Johnson,Nigeria,Africa,Monitor,Electronics,1,405.89,0,405.89,280,125.89,Bank Transfer,Marketplace
+ORD-100703,09/05/2025,Jamie Walker,Australia,Oceania,Monitor,Electronics,2,416.94,0,833.88,560,273.88,Credit Card,Retail Store
+ORD-100704,10/11/2025,Avery Thomas,Canada,North America,Monitor,Electronics,4,439.81,0,1759.24,1120,639.24,Credit Card,Retail Store
+ORD-100705,28/07/2025,Taylor Hall,UK,Europe,Laptop,Electronics,1,830.7,0.15,706.1,600,106.1,Bank Transfer,Online
+ORD-100706,28/10/2025,Morgan Thomas,Canada,North America,Office Chair,Furniture,1,288.38,0,288.38,170,118.38,Credit Card,Retail Store
+ORD-100707,26/07/2025,Sophia Davis,India,Asia,Printer,Electronics,3,251.55,0.05,716.92,450,266.92,Debit Card,Online
+ORD-100708,16/03/2025,Avery Brown,Canada,North America,Monitor,Electronics,2,429.83,0,859.66,560,299.66,Credit Card,Marketplace
+ORD-100709,10/06/2025,Morgan Davis,Nigeria,Africa,Bookshelf,Furniture,3,184.67,0.15,470.91,330,140.91,Debit Card,Marketplace
+ORD-100710,28/01/2025,Morgan Moore,Nigeria,Africa,Laptop,Electronics,2,897.92,0,1795.84,1200,595.84,Debit Card,Online
+ORD-100711,24/03/2025,Daniel Wilson,USA,North America,Office Chair,Furniture,1,284.25,0,284.25,170,114.25,Credit Card,Online
+ORD-100712,19/10/2025,Jordan Wilson,Germany,Europe,Office Chair,Furniture,1,274.33,0,274.33,170,104.33,Credit Card,Online
+ORD-100713,16/02/2025,Sophia Moore,Australia,Oceania,Office Chair,Furniture,1,293.1,0.05,278.44,170,108.44,Debit Card,Online
+ORD-100714,02/01/2025,Avery Martin,Germany,Europe,Bookshelf,Furniture,3,204.84,0.2,491.62,330,161.62,Credit Card,Retail Store
+ORD-100715,31/08/2025,Avery Hall,USA,North America,Headphones,Electronics,4,120.99,0.1,435.56,240,195.56,Debit Card,Online
+ORD-100716,03/12/2025,Drew Moore,Canada,North America,Monitor,Electronics,2,451.02,0.15,766.73,560,206.73,Debit Card,Online
+ORD-100717,26/05/2025,Emma Taylor,USA,North America,Desk,Furniture,5,339.21,0.05,1611.25,1000,611.25,Bank Transfer,Online
+ORD-100718,15/12/2025,Sam Hall,Germany,Europe,Monitor,Electronics,2,448.04,0,896.08,560,336.08,PayPal,Marketplace
+ORD-100719,28/12/2025,Liam Moore,India,Asia,Desk,Furniture,1,320.14,0.15,272.12,200,72.12,Bank Transfer,Online
+ORD-100720,19/12/2025,Casey Young,Germany,Europe,Keyboard,Electronics,5,79,0.05,375.25,200,175.25,Credit Card,Online
+ORD-100721,16/10/2025,Cameron Martin,Kenya,Africa,Headphones,Electronics,1,126.73,0,126.73,60,66.73,Debit Card,Online
+ORD-100722,09/03/2025,Cameron Johnson,USA,North America,Headphones,Electronics,1,126.81,0.2,101.45,60,41.45,Credit Card,Online
+ORD-100723,05/03/2025,Casey Martin,Australia,Oceania,Keyboard,Electronics,4,74.23,0,296.92,160,136.92,Credit Card,Retail Store
+ORD-100724,08/11/2025,Jamie Taylor,UK,Europe,Printer,Electronics,2,230.21,0.05,437.4,300,137.4,Debit Card,Marketplace
+ORD-100725,26/01/2025,Olivia Martin,USA,North America,Desk,Furniture,4,325.24,0,1300.96,800,500.96,Bank Transfer,Retail Store
+ORD-100726,11/01/2025,Noah Lewis,Australia,Oceania,Monitor,Electronics,2,404.11,0,808.22,560,248.22,PayPal,Online
+ORD-100727,24/04/2025,Emma Moore,UK,Europe,Printer,Electronics,1,255.52,0.05,242.74,150,92.74,Credit Card,Retail Store
+ORD-100728,02/10/2025,Riley Martin,Nigeria,Africa,Headphones,Electronics,4,114.13,0,456.52,240,216.52,Debit Card,Online
+ORD-100729,19/06/2025,Alex Young,Nigeria,Africa,Printer,Electronics,3,255.39,0,766.17,450,316.17,PayPal,Online
+ORD-100730,18/12/2025,Casey Taylor,Germany,Europe,Bookshelf,Furniture,1,201,0.05,190.95,110,80.95,Bank Transfer,Online
+ORD-100731,17/04/2025,Liam Walker,Australia,Oceania,Laptop,Electronics,2,876.76,0,1753.52,1200,553.52,PayPal,Online
+ORD-100732,29/08/2025,Ethan Clark,Kenya,Africa,Monitor,Electronics,5,423.63,0.1,1906.34,1400,506.34,Bank Transfer,Retail Store
+ORD-100733,30/09/2025,Jamie Martin,Australia,Oceania,Desk,Furniture,1,322.92,0.15,274.48,200,74.48,Debit Card,Retail Store
+ORD-100734,05/10/2025,Cameron Martin,UK,Europe,Printer,Electronics,2,257.01,0,514.02,300,214.02,Bank Transfer,Online
+ORD-100735,20/03/2025,Taylor Taylor,Germany,Europe,Monitor,Electronics,4,449.92,0.15,1529.73,1120,409.73,Debit Card,Online
+ORD-100736,22/11/2025,Cameron Davis,Australia,Oceania,Bookshelf,Furniture,3,191.12,0.1,516.02,330,186.02,PayPal,Marketplace
+ORD-100737,01/05/2025,Ethan Lewis,Kenya,Africa,Keyboard,Electronics,4,77.24,0.05,293.51,160,133.51,Credit Card,Online
+ORD-100738,22/06/2025,Noah Walker,India,Asia,Bookshelf,Furniture,1,205.1,0.05,194.84,110,84.84,Credit Card,Online
+ORD-100739,12/11/2025,Sophia Johnson,Australia,Oceania,Monitor,Electronics,5,404.66,0,2023.3,1400,623.3,Credit Card,Marketplace
+ORD-100740,31/01/2025,Liam Smith,UK,Europe,Bookshelf,Furniture,1,200.02,0,200.02,110,90.02,Credit Card,Retail Store
+ORD-100741,21/10/2025,Jamie Anderson,Australia,Oceania,Office Chair,Furniture,4,295.11,0,1180.44,680,500.44,Bank Transfer,Online
+ORD-100742,17/01/2025,Chris Johnson,Australia,Oceania,Headphones,Electronics,1,126.88,0.15,107.85,60,47.85,Credit Card,Marketplace
+ORD-100743,07/06/2025,Jordan Thomas,Nigeria,Africa,Laptop,Electronics,5,870.2,0,4351,3000,1351,PayPal,Online
+ORD-100744,23/06/2025,Jordan Thomas,Nigeria,Africa,Headphones,Electronics,6,116.23,0,697.38,360,337.38,Debit Card,Marketplace
+ORD-100745,25/12/2025,Daniel Young,Nigeria,Africa,Office Chair,Furniture,2,293.54,0.15,499.02,340,159.02,Bank Transfer,Retail Store
+ORD-100746,25/01/2025,Alex Smith,Canada,North America,Laptop,Electronics,4,824.01,0.05,3131.24,2400,731.24,Credit Card,Marketplace
+ORD-100747,17/02/2025,Avery Walker,USA,North America,Laptop,Electronics,6,815.56,0.05,4648.69,3600,1048.69,Credit Card,Online
+ORD-100748,05/11/2025,Ethan Davis,Germany,Europe,Printer,Electronics,1,255.03,0.1,229.53,150,79.53,Debit Card,Online
+ORD-100749,28/11/2025,Liam Young,Nigeria,Africa,Office Chair,Furniture,1,294.05,0.15,249.94,170,79.94,Debit Card,Online
+ORD-100750,27/06/2025,Casey Taylor,Nigeria,Africa,Keyboard,Electronics,2,73.53,0.1,132.35,80,52.35,Credit Card,Retail Store
+ORD-100751,01/11/2025,Taylor Martin,Canada,North America,Printer,Electronics,2,237.02,0,474.04,300,174.04,Bank Transfer,Retail Store
+ORD-100752,27/09/2025,Sam Smith,Australia,Oceania,Laptop,Electronics,1,859.94,0,859.94,600,259.94,Credit Card,Online
+ORD-100753,07/06/2025,Noah Smith,UK,Europe,Office Chair,Furniture,2,278.78,0.05,529.68,340,189.68,PayPal,Online
+ORD-100754,08/07/2025,Jordan Davis,Kenya,Africa,Laptop,Electronics,5,874.31,0.15,3715.82,3000,715.82,Debit Card,Marketplace
+ORD-100755,10/12/2025,Olivia Anderson,Nigeria,Africa,Headphones,Electronics,2,121.19,0,242.38,120,122.38,Credit Card,Online
+ORD-100756,12/01/2025,Cameron Taylor,UK,Europe,Laptop,Electronics,3,838.23,0,2514.69,1800,714.69,Debit Card,Retail Store
+ORD-100757,07/03/2025,Avery Smith,USA,North America,Keyboard,Electronics,3,76.02,0,228.06,120,108.06,Bank Transfer,Marketplace
+ORD-100758,28/10/2025,Avery Hall,Canada,North America,Printer,Electronics,1,234.18,0.1,210.76,150,60.76,Bank Transfer,Online
+ORD-100759,11/11/2025,Liam Thomas,Australia,Oceania,Office Chair,Furniture,1,278.88,0,278.88,170,108.88,PayPal,Marketplace
+ORD-100760,25/01/2025,Cameron Lewis,UK,Europe,Bookshelf,Furniture,1,203.09,0,203.09,110,93.09,Debit Card,Online
+ORD-100761,01/07/2025,Sam Young,Canada,North America,Desk,Furniture,1,308.92,0,308.92,200,108.92,PayPal,Retail Store
+ORD-100762,28/03/2025,Ethan Clark,UK,Europe,Keyboard,Electronics,3,73.21,0.05,208.65,120,88.65,Credit Card,Online
+ORD-100763,28/09/2025,Sophia Clark,Germany,Europe,Keyboard,Electronics,3,79.53,0,238.59,120,118.59,Debit Card,Marketplace
+ORD-100764,16/05/2025,Drew Brown,Nigeria,Africa,Headphones,Electronics,4,121.99,0,487.96,240,247.96,PayPal,Online
+ORD-100765,30/12/2025,Avery Moore,Germany,Europe,Headphones,Electronics,1,116.92,0,116.92,60,56.92,Bank Transfer,Retail Store
+ORD-100766,30/07/2025,Mia Wilson,India,Asia,Desk,Furniture,2,309.42,0.15,526.01,400,126.01,Credit Card,Online
+ORD-100767,09/01/2025,Riley Brown,USA,North America,Headphones,Electronics,3,118.72,0.05,338.35,180,158.35,Credit Card,Online
+ORD-100768,05/04/2025,Mia Johnson,Canada,North America,Desk,Furniture,2,315.97,0.05,600.34,400,200.34,Credit Card,Retail Store
+ORD-100769,03/12/2025,Noah Taylor,India,Asia,Printer,Electronics,1,235.52,0,235.52,150,85.52,Credit Card,Online
+ORD-100770,04/12/2025,Emma Clark,India,Asia,Office Chair,Furniture,1,296.99,0,296.99,170,126.99,Bank Transfer,Online
+ORD-100771,01/10/2025,Jordan Clark,Germany,Europe,Keyboard,Electronics,1,78.11,0,78.11,40,38.11,Bank Transfer,Online
+ORD-100772,03/04/2025,Riley Martin,Canada,North America,Keyboard,Electronics,2,78.94,0,157.88,80,77.88,PayPal,Retail Store
+ORD-100773,10/04/2025,Emma Martin,Nigeria,Africa,Laptop,Electronics,4,848,0,3392,2400,992,Credit Card,Retail Store
+ORD-100774,07/05/2025,Ethan Taylor,India,Asia,Keyboard,Electronics,4,71.71,0,286.84,160,126.84,PayPal,Retail Store
+ORD-100775,22/04/2025,Emma Martin,USA,North America,Printer,Electronics,2,243.64,0,487.28,300,187.28,PayPal,Online
+ORD-100776,26/12/2025,Drew Brown,UK,Europe,Printer,Electronics,5,230.96,0.15,981.58,750,231.58,Bank Transfer,Retail Store
+ORD-100777,29/07/2025,Sophia Anderson,USA,North America,Bookshelf,Furniture,1,182.76,0,182.76,110,72.76,Credit Card,Online
+ORD-100778,14/04/2025,Emma Hall,Canada,North America,Printer,Electronics,2,256.63,0,513.26,300,213.26,Credit Card,Online
+ORD-100779,13/10/2025,Chris Taylor,Kenya,Africa,Headphones,Electronics,1,128.09,0.05,121.69,60,61.69,PayPal,Online
+ORD-100780,09/08/2025,Drew Johnson,UK,Europe,Desk,Furniture,3,327.88,0.05,934.46,600,334.46,PayPal,Retail Store
+ORD-100781,03/09/2025,Sophia Clark,Germany,Europe,Laptop,Electronics,4,898.87,0,3595.48,2400,1195.48,Credit Card,Online
+ORD-100782,09/02/2025,Cameron Thomas,India,Asia,Office Chair,Furniture,1,264.29,0.05,251.08,170,81.08,Bank Transfer,Marketplace
+ORD-100783,06/11/2025,Jordan Hall,Germany,Europe,Monitor,Electronics,5,403.55,0,2017.75,1400,617.75,Credit Card,Retail Store
+ORD-100784,22/10/2025,Riley Johnson,UK,Europe,Headphones,Electronics,4,120.91,0,483.64,240,243.64,Debit Card,Marketplace
+ORD-100785,30/09/2025,Alex Lewis,USA,North America,Printer,Electronics,2,237.87,0.1,428.17,300,128.17,Credit Card,Retail Store
+ORD-100786,05/07/2025,Alex Davis,Nigeria,Africa,Office Chair,Furniture,1,279.46,0.05,265.49,170,95.49,Credit Card,Online
+ORD-100787,10/01/2025,Olivia Smith,USA,North America,Laptop,Electronics,2,903.8,0.05,1717.22,1200,517.22,PayPal,Online
+ORD-100788,13/06/2025,Morgan Walker,Australia,Oceania,Office Chair,Furniture,1,267.26,0.1,240.53,170,70.53,Credit Card,Online
+ORD-100789,29/11/2025,Avery Taylor,Germany,Europe,Printer,Electronics,3,253.75,0.1,685.12,450,235.12,Debit Card,Retail Store
+ORD-100790,27/02/2025,Avery Martin,Nigeria,Africa,Bookshelf,Furniture,1,181.43,0.05,172.36,110,62.36,Debit Card,Online
+ORD-100791,21/08/2025,Chris Smith,Canada,North America,Office Chair,Furniture,2,291.58,0,583.16,340,243.16,Debit Card,Retail Store
+ORD-100792,24/04/2025,Daniel Martin,Germany,Europe,Keyboard,Electronics,2,76.16,0,152.32,80,72.32,Bank Transfer,Online
+ORD-100793,12/08/2025,Casey Martin,India,Asia,Desk,Furniture,1,340.07,0,340.07,200,140.07,PayPal,Retail Store
+ORD-100794,05/06/2025,Taylor Hall,UK,Europe,Laptop,Electronics,3,888.48,0.15,2265.62,1800,465.62,Bank Transfer,Online
+ORD-100795,27/03/2025,Drew Lewis,Kenya,Africa,Bookshelf,Furniture,2,197.63,0.1,355.73,220,135.73,Credit Card,Online
+ORD-100796,28/08/2025,Ethan Davis,India,Asia,Printer,Electronics,5,245.12,0,1225.6,750,475.6,PayPal,Retail Store
+ORD-100797,15/06/2025,Chris Anderson,Kenya,Africa,Office Chair,Furniture,2,268.7,0.1,483.66,340,143.66,Debit Card,Online
+ORD-100798,25/06/2025,Chris Clark,Germany,Europe,Bookshelf,Furniture,5,192.98,0.1,868.41,550,318.41,Credit Card,Online
+ORD-100799,01/07/2025,Daniel Taylor,USA,North America,Desk,Furniture,3,341.89,0,1025.67,600,425.67,Bank Transfer,Online
+ORD-100800,01/05/2025,Cameron Martin,Germany,Europe,Office Chair,Furniture,4,281.01,0.05,1067.84,680,387.84,Credit Card,Online
+ORD-100801,15/02/2025,Casey Johnson,Kenya,Africa,Bookshelf,Furniture,1,185.4,0.05,176.13,110,66.13,PayPal,Retail Store
+ORD-100802,10/06/2025,Olivia Taylor,Australia,Oceania,Headphones,Electronics,3,129.55,0.1,349.78,180,169.78,Credit Card,Marketplace
+ORD-100803,15/05/2025,Olivia Lewis,Kenya,Africa,Laptop,Electronics,3,883.21,0,2649.63,1800,849.63,Bank Transfer,Marketplace
+ORD-100804,11/11/2025,Olivia Davis,Canada,North America,Headphones,Electronics,4,122.39,0,489.56,240,249.56,Bank Transfer,Online
+ORD-100805,24/09/2025,Casey Smith,Kenya,Africa,Desk,Furniture,6,347.82,0.1,1878.23,1200,678.23,Credit Card,Online
+ORD-100806,01/08/2025,Emma Taylor,India,Asia,Headphones,Electronics,3,120.33,0,360.99,180,180.99,Credit Card,Online
+ORD-100807,29/06/2025,Drew Anderson,India,Asia,Headphones,Electronics,2,123.42,0.1,222.16,120,102.16,Debit Card,Online
+ORD-100808,13/06/2025,Drew Smith,Nigeria,Africa,Office Chair,Furniture,5,266.44,0,1332.2,850,482.2,PayPal,Retail Store
+ORD-100809,07/10/2025,Mia Anderson,UK,Europe,Laptop,Electronics,1,892.75,0.1,803.48,600,203.48,Credit Card,Marketplace
+ORD-100810,10/12/2025,Mia Young,India,Asia,Laptop,Electronics,4,863.69,0.1,3109.28,2400,709.28,Bank Transfer,Marketplace
+ORD-100811,16/03/2025,Avery Walker,Canada,North America,Printer,Electronics,3,257.95,0.05,735.16,450,285.16,PayPal,Retail Store
+ORD-100812,04/05/2025,Sam Thomas,UK,Europe,Printer,Electronics,2,245.3,0.1,441.54,300,141.54,Credit Card,Online
+ORD-100813,13/04/2025,Morgan Martin,UK,Europe,Desk,Furniture,2,338.94,0,677.88,400,277.88,PayPal,Retail Store
+ORD-100814,02/03/2025,Sophia Taylor,Germany,Europe,Desk,Furniture,2,332.37,0,664.74,400,264.74,Credit Card,Online
+ORD-100815,29/11/2025,Olivia Anderson,Nigeria,Africa,Keyboard,Electronics,2,71.5,0,143,80,63,Credit Card,Online
+ORD-100816,05/11/2025,Morgan Davis,USA,North America,Desk,Furniture,3,337.33,0,1011.99,600,411.99,Bank Transfer,Online
+ORD-100817,28/04/2025,Noah Thomas,Nigeria,Africa,Printer,Electronics,2,228.18,0.05,433.54,300,133.54,PayPal,Online
+ORD-100818,24/05/2025,Taylor Moore,Kenya,Africa,Bookshelf,Furniture,1,203.36,0,203.36,110,93.36,Bank Transfer,Marketplace
+ORD-100819,27/03/2025,Alex Wilson,Germany,Europe,Monitor,Electronics,3,424.7,0,1274.1,840,434.1,Credit Card,Retail Store
+ORD-100820,30/11/2025,Liam Young,India,Asia,Headphones,Electronics,2,125.68,0.1,226.22,120,106.22,Credit Card,Online
+ORD-100821,23/10/2025,Jordan Martin,USA,North America,Office Chair,Furniture,3,290.1,0,870.3,510,360.3,Credit Card,Marketplace
+ORD-100822,22/12/2025,Mia Wilson,India,Asia,Keyboard,Electronics,2,78.7,0.1,141.66,80,61.66,Credit Card,Online
+ORD-100823,22/01/2025,Liam Taylor,USA,North America,Bookshelf,Furniture,3,185.46,0,556.38,330,226.38,Debit Card,Online
+ORD-100824,16/04/2025,Chris Martin,USA,North America,Keyboard,Electronics,6,71.94,0,431.64,240,191.64,Bank Transfer,Online
+ORD-100825,19/10/2025,Cameron Young,Germany,Europe,Printer,Electronics,3,247.95,0.05,706.66,450,256.66,Debit Card,Online
+ORD-100826,07/07/2025,Sam Young,Canada,North America,Desk,Furniture,1,338.22,0.05,321.31,200,121.31,Credit Card,Retail Store
+ORD-100827,30/10/2025,Cameron Thomas,USA,North America,Monitor,Electronics,2,422.92,0,845.84,560,285.84,Debit Card,Retail Store
+ORD-100828,12/02/2025,Jordan Thomas,Canada,North America,Printer,Electronics,2,237.24,0,474.48,300,174.48,Debit Card,Online
+ORD-100829,28/05/2025,Daniel Johnson,Nigeria,Africa,Printer,Electronics,2,257.1,0,514.2,300,214.2,Bank Transfer,Online
+ORD-100830,07/10/2025,Mia Thomas,Kenya,Africa,Keyboard,Electronics,1,72.53,0,72.53,40,32.53,Debit Card,Marketplace
+ORD-100831,13/07/2025,Sam Walker,India,Asia,Desk,Furniture,3,345.27,0,1035.81,600,435.81,Bank Transfer,Online
+ORD-100832,22/10/2025,Drew Hall,Canada,North America,Keyboard,Electronics,3,79.04,0,237.12,120,117.12,Debit Card,Online
+ORD-100833,15/10/2025,Drew Johnson,Canada,North America,Bookshelf,Furniture,3,195.57,0,586.71,330,256.71,Credit Card,Online
+ORD-100834,04/11/2025,Daniel Wilson,UK,Europe,Laptop,Electronics,2,895.73,0.1,1612.31,1200,412.31,Credit Card,Online
+ORD-100835,14/02/2025,Sam Anderson,Germany,Europe,Laptop,Electronics,1,898.52,0.1,808.67,600,208.67,Debit Card,Online
+ORD-100836,06/05/2025,Avery Brown,Australia,Oceania,Printer,Electronics,2,255.67,0.05,485.77,300,185.77,Bank Transfer,Online
+ORD-100837,11/07/2025,Emma Davis,Canada,North America,Desk,Furniture,2,349.38,0,698.76,400,298.76,Credit Card,Online
+ORD-100838,21/07/2025,Ethan Walker,India,Asia,Bookshelf,Furniture,1,203.81,0.05,193.62,110,83.62,Credit Card,Marketplace
+ORD-100839,02/02/2025,Drew Smith,Canada,North America,Headphones,Electronics,4,127.31,0.05,483.78,240,243.78,PayPal,Online
+ORD-100840,21/04/2025,Cameron Anderson,Australia,Oceania,Headphones,Electronics,2,122.7,0,245.4,120,125.4,Credit Card,Online
+ORD-100841,08/10/2025,Olivia Smith,UK,Europe,Laptop,Electronics,1,858.91,0.15,730.07,600,130.07,Credit Card,Online
+ORD-100842,14/10/2025,Emma Thomas,Canada,North America,Laptop,Electronics,2,864.97,0.05,1643.44,1200,443.44,Credit Card,Online
+ORD-100843,28/01/2025,Jamie Martin,Germany,Europe,Desk,Furniture,1,342.84,0.05,325.7,200,125.7,Credit Card,Online
+ORD-100844,10/01/2025,Morgan Lewis,Canada,North America,Printer,Electronics,2,243.7,0.05,463.03,300,163.03,Bank Transfer,Marketplace
+ORD-100845,15/04/2025,Drew Taylor,Canada,North America,Keyboard,Electronics,4,75.25,0.05,285.95,160,125.95,Credit Card,Online
+ORD-100846,13/05/2025,Sam Smith,India,Asia,Printer,Electronics,2,237.76,0.15,404.19,300,104.19,Debit Card,Online
+ORD-100847,19/05/2025,Olivia Young,Germany,Europe,Monitor,Electronics,2,442.05,0.05,839.9,560,279.9,PayPal,Marketplace
+ORD-100848,24/07/2025,Daniel Moore,UK,Europe,Monitor,Electronics,4,399.7,0,1598.8,1120,478.8,Debit Card,Online
+ORD-100849,22/12/2025,Drew Johnson,Kenya,Africa,Monitor,Electronics,4,425.33,0.1,1531.19,1120,411.19,PayPal,Marketplace
+ORD-100850,22/11/2025,Alex Wilson,Canada,North America,Monitor,Electronics,1,405.79,0.05,385.5,280,105.5,Credit Card,Marketplace
+ORD-100851,15/01/2025,Emma Taylor,Nigeria,Africa,Keyboard,Electronics,5,72.78,0.15,309.32,200,109.32,Debit Card,Online
+ORD-100852,03/10/2025,Cameron Hall,Germany,Europe,Office Chair,Furniture,3,287.89,0.1,777.3,510,267.3,Credit Card,Online
+ORD-100853,09/03/2025,Avery Smith,Nigeria,Africa,Office Chair,Furniture,2,276.69,0.1,498.04,340,158.04,Bank Transfer,Retail Store
+ORD-100854,22/11/2025,Avery Martin,Australia,Oceania,Office Chair,Furniture,3,293.77,0,881.31,510,371.31,Credit Card,Marketplace
+ORD-100855,08/06/2025,Jordan Johnson,Canada,North America,Monitor,Electronics,2,420.45,0,840.9,560,280.9,Debit Card,Marketplace
+ORD-100856,18/06/2025,Cameron Johnson,Nigeria,Africa,Printer,Electronics,3,254.7,0,764.1,450,314.1,Credit Card,Online
+ORD-100857,05/06/2025,Drew Young,Nigeria,Africa,Laptop,Electronics,1,866.69,0,866.69,600,266.69,PayPal,Online
+ORD-100858,14/02/2025,Ethan Davis,USA,North America,Bookshelf,Furniture,2,193.11,0.05,366.91,220,146.91,Debit Card,Online
+ORD-100859,06/11/2025,Sophia Thomas,Australia,Oceania,Monitor,Electronics,1,427.9,0.1,385.11,280,105.11,Credit Card,Retail Store
+ORD-100860,24/08/2025,Chris Wilson,Australia,Oceania,Desk,Furniture,1,344.73,0.1,310.26,200,110.26,Credit Card,Marketplace
+ORD-100861,22/02/2025,Riley Taylor,Australia,Oceania,Desk,Furniture,1,347.23,0,347.23,200,147.23,Debit Card,Marketplace
+ORD-100862,28/08/2025,Cameron Davis,UK,Europe,Office Chair,Furniture,4,280.89,0.1,1011.2,680,331.2,Bank Transfer,Retail Store
+ORD-100863,13/09/2025,Sophia Smith,Canada,North America,Desk,Furniture,3,315.46,0.05,899.06,600,299.06,Debit Card,Online
+ORD-100864,02/09/2025,Noah Walker,Canada,North America,Monitor,Electronics,4,431.38,0,1725.52,1120,605.52,Credit Card,Online
+ORD-100865,02/02/2025,Liam Johnson,USA,North America,Bookshelf,Furniture,1,202.3,0,202.3,110,92.3,Credit Card,Marketplace
+ORD-100866,01/09/2025,Olivia Young,UK,Europe,Office Chair,Furniture,4,280.58,0,1122.32,680,442.32,Credit Card,Online
+ORD-100867,03/09/2025,Noah Hall,USA,North America,Desk,Furniture,6,321.35,0.05,1831.7,1200,631.7,Credit Card,Retail Store
+ORD-100868,18/07/2025,Chris Clark,Australia,Oceania,Keyboard,Electronics,1,77.52,0.05,73.64,40,33.64,Credit Card,Online
+ORD-100869,21/02/2025,Riley Moore,Kenya,Africa,Bookshelf,Furniture,1,193.75,0,193.75,110,83.75,PayPal,Marketplace
+ORD-100870,09/12/2025,Mia Davis,Nigeria,Africa,Printer,Electronics,1,239.51,0.1,215.56,150,65.56,Bank Transfer,Online
+ORD-100871,11/05/2025,Taylor Martin,Kenya,Africa,Desk,Furniture,5,336.93,0.05,1600.42,1000,600.42,Credit Card,Retail Store
+ORD-100872,07/08/2025,Emma Brown,USA,North America,Headphones,Electronics,2,124.76,0,249.52,120,129.52,PayPal,Online
+ORD-100873,07/06/2025,Jordan Anderson,Germany,Europe,Office Chair,Furniture,1,271.25,0.1,244.12,170,74.12,Debit Card,Marketplace
+ORD-100874,09/01/2025,Morgan Smith,Nigeria,Africa,Keyboard,Electronics,1,73.47,0.15,62.45,40,22.45,Credit Card,Marketplace
+ORD-100875,21/05/2025,Alex Thomas,India,Asia,Printer,Electronics,2,258.71,0,517.42,300,217.42,Credit Card,Retail Store
+ORD-100876,10/01/2025,Ethan Hall,Germany,Europe,Keyboard,Electronics,3,79.67,0.05,227.06,120,107.06,Debit Card,Online
+ORD-100877,06/12/2025,Ethan Hall,USA,North America,Keyboard,Electronics,3,71.43,0.05,203.58,120,83.58,Credit Card,Retail Store
+ORD-100878,18/12/2025,Casey Moore,USA,North America,Desk,Furniture,1,345.86,0.05,328.57,200,128.57,PayPal,Online
+ORD-100879,28/04/2025,Liam Young,Kenya,Africa,Monitor,Electronics,5,429.35,0.05,2039.41,1400,639.41,Debit Card,Retail Store
+ORD-100880,27/09/2025,Jordan Clark,Nigeria,Africa,Bookshelf,Furniture,2,190.09,0,380.18,220,160.18,PayPal,Online
+ORD-100881,24/11/2025,Alex Davis,Germany,Europe,Printer,Electronics,3,243.72,0,731.16,450,281.16,Debit Card,Retail Store
+ORD-100882,12/12/2025,Jordan Lewis,USA,North America,Printer,Electronics,2,241.5,0.1,434.7,300,134.7,Credit Card,Retail Store
+ORD-100883,11/01/2025,Daniel Lewis,UK,Europe,Desk,Furniture,2,312.59,0,625.18,400,225.18,Debit Card,Online
+ORD-100884,18/05/2025,Olivia Taylor,Australia,Oceania,Office Chair,Furniture,4,269.71,0,1078.84,680,398.84,Credit Card,Online
+ORD-100885,26/11/2025,Drew Walker,Kenya,Africa,Keyboard,Electronics,2,77.72,0.05,147.67,80,67.67,Debit Card,Retail Store
+ORD-100886,29/04/2025,Chris Davis,UK,Europe,Monitor,Electronics,3,442.01,0,1326.03,840,486.03,Credit Card,Online
+ORD-100887,02/04/2025,Sophia Martin,Australia,Oceania,Printer,Electronics,4,252.47,0.05,959.39,600,359.39,Credit Card,Retail Store
+ORD-100888,05/10/2025,Riley Taylor,USA,North America,Laptop,Electronics,2,838.73,0.15,1425.84,1200,225.84,Debit Card,Retail Store
+ORD-100889,27/03/2025,Mia Martin,Canada,North America,Headphones,Electronics,4,124.44,0.05,472.87,240,232.87,PayPal,Online
+ORD-100890,16/11/2025,Jamie Hall,Australia,Oceania,Keyboard,Electronics,1,77.35,0.05,73.48,40,33.48,Debit Card,Retail Store
+ORD-100891,24/03/2025,Noah Brown,USA,North America,Keyboard,Electronics,6,73.89,0.15,376.84,240,136.84,Debit Card,Online
+ORD-100892,01/09/2025,Sophia Moore,USA,North America,Office Chair,Furniture,3,292.16,0,876.48,510,366.48,Debit Card,Retail Store
+ORD-100893,06/07/2025,Chris Brown,Kenya,Africa,Desk,Furniture,1,329.16,0,329.16,200,129.16,Credit Card,Retail Store
+ORD-100894,30/07/2025,Morgan Martin,India,Asia,Monitor,Electronics,6,423.9,0.05,2416.23,1680,736.23,Credit Card,Marketplace
+ORD-100895,02/03/2025,Jordan Moore,UK,Europe,Office Chair,Furniture,2,278.1,0.05,528.39,340,188.39,Credit Card,Online
+ORD-100896,19/07/2025,Avery Brown,UK,Europe,Headphones,Electronics,2,116.75,0.05,221.82,120,101.82,Debit Card,Online
+ORD-100897,03/11/2025,Avery Martin,Australia,Oceania,Bookshelf,Furniture,1,196.21,0.1,176.59,110,66.59,Credit Card,Marketplace
+ORD-100898,05/12/2025,Avery Thomas,Kenya,Africa,Office Chair,Furniture,1,274.95,0,274.95,170,104.95,PayPal,Marketplace
+ORD-100899,19/04/2025,Olivia Davis,India,Asia,Desk,Furniture,1,332.65,0.05,316.02,200,116.02,Credit Card,Online
+ORD-100900,20/03/2025,Cameron Martin,Kenya,Africa,Office Chair,Furniture,1,293.25,0,293.25,170,123.25,Credit Card,Marketplace
+ORD-100901,01/10/2025,Taylor Taylor,UK,Europe,Bookshelf,Furniture,1,187.53,0.1,168.78,110,58.78,PayPal,Retail Store
+ORD-100902,02/01/2025,Casey Taylor,India,Asia,Desk,Furniture,5,331.22,0,1656.1,1000,656.1,Credit Card,Online
+ORD-100903,26/07/2025,Ethan Hall,Canada,North America,Laptop,Electronics,4,908.53,0.1,3270.71,2400,870.71,PayPal,Online
+ORD-100904,03/03/2025,Cameron Clark,USA,North America,Keyboard,Electronics,6,80.27,0.2,385.3,240,145.3,Credit Card,Marketplace
+ORD-100905,17/07/2025,Ethan Davis,Nigeria,Africa,Desk,Furniture,4,316.84,0,1267.36,800,467.36,Debit Card,Online
+ORD-100906,21/11/2025,Drew Johnson,Canada,North America,Keyboard,Electronics,1,71.54,0,71.54,40,31.54,Bank Transfer,Online
+ORD-100907,14/09/2025,Alex Wilson,USA,North America,Printer,Electronics,3,231.26,0,693.78,450,243.78,Credit Card,Online
+ORD-100908,17/02/2025,Jamie Moore,India,Asia,Laptop,Electronics,5,887.32,0.1,3992.94,3000,992.94,Credit Card,Retail Store
+ORD-100909,22/08/2025,Cameron Thomas,UK,Europe,Laptop,Electronics,3,914.27,0,2742.81,1800,942.81,Bank Transfer,Online
+ORD-100910,02/03/2025,Ethan Davis,USA,North America,Laptop,Electronics,1,899.55,0.15,764.62,600,164.62,Debit Card,Online
+ORD-100911,19/06/2025,Liam Hall,Australia,Oceania,Laptop,Electronics,2,814.84,0,1629.68,1200,429.68,Credit Card,Online
+ORD-100912,20/07/2025,Sophia Clark,Kenya,Africa,Keyboard,Electronics,2,78.1,0.05,148.39,80,68.39,Bank Transfer,Retail Store
+ORD-100913,31/01/2025,Mia Brown,UK,Europe,Keyboard,Electronics,3,79.65,0,238.95,120,118.95,Debit Card,Online
+ORD-100914,21/03/2025,Liam Davis,Australia,Oceania,Keyboard,Electronics,1,76.45,0.05,72.63,40,32.63,Debit Card,Retail Store
+ORD-100915,17/01/2025,Sam Brown,Nigeria,Africa,Headphones,Electronics,1,121.34,0.05,115.27,60,55.27,Debit Card,Retail Store
+ORD-100916,04/02/2025,Olivia Walker,Germany,Europe,Bookshelf,Furniture,2,199.28,0,398.56,220,178.56,Bank Transfer,Retail Store
+ORD-100917,04/03/2025,Olivia Thomas,India,Asia,Keyboard,Electronics,2,79.53,0.05,151.11,80,71.11,Credit Card,Online
+ORD-100918,08/07/2025,Drew Walker,India,Asia,Bookshelf,Furniture,3,187.86,0.05,535.4,330,205.4,Credit Card,Online
+ORD-100919,14/07/2025,Riley Taylor,Kenya,Africa,Keyboard,Electronics,1,77.92,0.05,74.02,40,34.02,PayPal,Retail Store
+ORD-100920,27/06/2025,Avery Young,Canada,North America,Headphones,Electronics,2,114.38,0.15,194.45,120,74.45,Credit Card,Marketplace
+ORD-100921,16/02/2025,Jamie Clark,Kenya,Africa,Keyboard,Electronics,3,72.5,0.1,195.75,120,75.75,Credit Card,Online
+ORD-100922,05/04/2025,Morgan Brown,Germany,Europe,Printer,Electronics,2,246.25,0.05,467.88,300,167.88,PayPal,Online
+ORD-100923,25/05/2025,Sophia Wilson,Australia,Oceania,Monitor,Electronics,2,427.18,0,854.36,560,294.36,Bank Transfer,Marketplace
+ORD-100924,08/03/2025,Casey Davis,Nigeria,Africa,Laptop,Electronics,1,829.18,0.1,746.26,600,146.26,Debit Card,Online
+ORD-100925,20/02/2025,Drew Thomas,Nigeria,Africa,Keyboard,Electronics,2,71.79,0.1,129.22,80,49.22,Bank Transfer,Online
+ORD-100926,16/11/2025,Casey Brown,Nigeria,Africa,Monitor,Electronics,1,447.96,0,447.96,280,167.96,Credit Card,Online
+ORD-100927,08/07/2025,Alex Taylor,Nigeria,Africa,Monitor,Electronics,4,440.15,0.05,1672.57,1120,552.57,Bank Transfer,Marketplace
+ORD-100928,21/08/2025,Cameron Martin,Australia,Oceania,Keyboard,Electronics,3,76.48,0,229.44,120,109.44,Credit Card,Retail Store
+ORD-100929,29/01/2025,Sophia Hall,Australia,Oceania,Printer,Electronics,3,235.03,0,705.09,450,255.09,Debit Card,Online
+ORD-100930,22/05/2025,Sophia Taylor,Germany,Europe,Bookshelf,Furniture,3,201.11,0.1,543,330,213,Bank Transfer,Online
+ORD-100931,21/11/2025,Mia Davis,Kenya,Africa,Printer,Electronics,4,240.43,0.05,913.63,600,313.63,Bank Transfer,Online
+ORD-100932,18/03/2025,Mia Walker,UK,Europe,Headphones,Electronics,2,120.86,0,241.72,120,121.72,Bank Transfer,Online
+ORD-100933,10/03/2025,Mia Walker,India,Asia,Headphones,Electronics,5,127.4,0.15,541.45,300,241.45,Credit Card,Online
+ORD-100934,06/04/2025,Riley Young,India,Asia,Office Chair,Furniture,1,268.86,0.1,241.97,170,71.97,Debit Card,Marketplace
+ORD-100935,01/05/2025,Alex Smith,Nigeria,Africa,Desk,Furniture,3,326.28,0.15,832.01,600,232.01,Credit Card,Online
+ORD-100936,22/06/2025,Daniel Martin,Australia,Oceania,Bookshelf,Furniture,1,200.77,0.05,190.73,110,80.73,Credit Card,Retail Store
+ORD-100937,11/05/2025,Ethan Hall,Germany,Europe,Headphones,Electronics,3,128.96,0.05,367.54,180,187.54,Bank Transfer,Retail Store
+ORD-100938,30/08/2025,Sophia Moore,India,Asia,Laptop,Electronics,3,816.85,0,2450.55,1800,650.55,Credit Card,Online
+ORD-100939,26/03/2025,Alex Johnson,Australia,Oceania,Bookshelf,Furniture,2,190.22,0,380.44,220,160.44,Bank Transfer,Online
+ORD-100940,21/08/2025,Daniel Brown,Canada,North America,Office Chair,Furniture,1,270.28,0.1,243.25,170,73.25,Credit Card,Retail Store
+ORD-100941,16/08/2025,Mia Davis,India,Asia,Bookshelf,Furniture,2,197.19,0,394.38,220,174.38,Debit Card,Marketplace
+ORD-100942,20/04/2025,Chris Clark,UK,Europe,Office Chair,Furniture,1,279.14,0.1,251.23,170,81.23,PayPal,Online
+ORD-100943,15/06/2025,Alex Martin,Germany,Europe,Desk,Furniture,1,335.04,0.15,284.78,200,84.78,Credit Card,Online
+ORD-100944,09/03/2025,Liam Brown,UK,Europe,Keyboard,Electronics,3,78.13,0.15,199.23,120,79.23,Debit Card,Online
+ORD-100945,10/10/2025,Alex Smith,USA,North America,Keyboard,Electronics,3,78.37,0,235.11,120,115.11,Debit Card,Marketplace
+ORD-100946,05/01/2025,Riley Brown,UK,Europe,Bookshelf,Furniture,5,204.96,0,1024.8,550,474.8,Credit Card,Retail Store
+ORD-100947,02/07/2025,Ethan Walker,India,Asia,Headphones,Electronics,1,128.1,0.05,121.7,60,61.7,Bank Transfer,Online
+ORD-100948,02/12/2025,Liam Moore,Australia,Oceania,Desk,Furniture,4,321.25,0.05,1220.75,800,420.75,PayPal,Online
+ORD-100949,04/11/2025,Mia Thomas,Nigeria,Africa,Bookshelf,Furniture,1,204.25,0.15,173.61,110,63.61,Bank Transfer,Online
+ORD-100950,16/09/2025,Cameron Johnson,UK,Europe,Laptop,Electronics,2,905.81,0.05,1721.04,1200,521.04,PayPal,Retail Store
+ORD-100951,10/04/2025,Taylor Anderson,Nigeria,Africa,Laptop,Electronics,2,900.08,0.15,1530.14,1200,330.14,PayPal,Online
+ORD-100952,23/02/2025,Casey Walker,Canada,North America,Laptop,Electronics,6,846.81,0,5080.86,3600,1480.86,Bank Transfer,Retail Store
+ORD-100953,10/04/2025,Sam Walker,USA,North America,Laptop,Electronics,3,809.72,0.1,2186.24,1800,386.24,Bank Transfer,Marketplace
+ORD-100954,25/09/2025,Avery Anderson,Germany,Europe,Office Chair,Furniture,3,284.21,0.05,810,510,300,Debit Card,Retail Store
+ORD-100955,22/03/2025,Drew Wilson,Kenya,Africa,Laptop,Electronics,3,887.78,0,2663.34,1800,863.34,Credit Card,Retail Store
+ORD-100956,16/02/2025,Alex Walker,Kenya,Africa,Bookshelf,Furniture,2,194.77,0.05,370.06,220,150.06,Credit Card,Online
+ORD-100957,11/05/2025,Avery Johnson,UK,Europe,Printer,Electronics,3,251.08,0.05,715.58,450,265.58,Bank Transfer,Online
+ORD-100958,23/10/2025,Morgan Clark,USA,North America,Office Chair,Furniture,1,270.43,0.15,229.87,170,59.87,PayPal,Retail Store
+ORD-100959,25/04/2025,Casey Wilson,Nigeria,Africa,Monitor,Electronics,5,437.84,0,2189.2,1400,789.2,Credit Card,Retail Store
+ORD-100960,14/04/2025,Sophia Young,Germany,Europe,Printer,Electronics,1,251.78,0.05,239.19,150,89.19,PayPal,Online
+ORD-100961,25/07/2025,Jamie Martin,Australia,Oceania,Keyboard,Electronics,1,71.79,0.05,68.2,40,28.2,Credit Card,Retail Store
+ORD-100962,02/11/2025,Jordan Thomas,Germany,Europe,Headphones,Electronics,1,122.85,0,122.85,60,62.85,Credit Card,Online
+ORD-100963,28/07/2025,Riley Moore,Australia,Oceania,Headphones,Electronics,2,116.2,0.05,220.78,120,100.78,Bank Transfer,Online
+ORD-100964,22/11/2025,Liam Lewis,Nigeria,Africa,Office Chair,Furniture,2,281.98,0.1,507.56,340,167.56,Credit Card,Retail Store
+ORD-100965,30/04/2025,Jordan Martin,UK,Europe,Bookshelf,Furniture,2,181.65,0,363.3,220,143.3,Bank Transfer,Online
+ORD-100966,17/05/2025,Noah Taylor,Germany,Europe,Laptop,Electronics,5,869.94,0.05,4132.22,3000,1132.22,PayPal,Retail Store
+ORD-100967,04/12/2025,Avery Smith,Germany,Europe,Bookshelf,Furniture,3,190.17,0,570.51,330,240.51,Debit Card,Retail Store
+ORD-100968,26/09/2025,Liam Wilson,Australia,Oceania,Printer,Electronics,2,235.77,0.1,424.39,300,124.39,Credit Card,Online
+ORD-100969,11/04/2025,Riley Davis,Australia,Oceania,Desk,Furniture,5,327.99,0.05,1557.95,1000,557.95,PayPal,Online
+ORD-100970,09/02/2025,Alex Clark,Australia,Oceania,Desk,Furniture,2,329.89,0.1,593.8,400,193.8,Debit Card,Online
+ORD-100971,17/09/2025,Jamie Anderson,Canada,North America,Headphones,Electronics,5,116.29,0,581.45,300,281.45,Bank Transfer,Online
+ORD-100972,24/05/2025,Casey Wilson,Australia,Oceania,Bookshelf,Furniture,2,188.36,0.05,357.88,220,137.88,PayPal,Online
+ORD-100973,18/01/2025,Ethan Smith,Germany,Europe,Headphones,Electronics,1,114.88,0,114.88,60,54.88,Debit Card,Online
+ORD-100974,28/02/2025,Ethan Smith,Germany,Europe,Monitor,Electronics,5,429.95,0.15,1827.29,1400,427.29,Debit Card,Retail Store
+ORD-100975,23/02/2025,Morgan Moore,Nigeria,Africa,Headphones,Electronics,4,119.24,0.15,405.42,240,165.42,Debit Card,Online
+ORD-100976,11/08/2025,Casey Taylor,Germany,Europe,Desk,Furniture,4,328,0,1312,800,512,Bank Transfer,Online
+ORD-100977,25/07/2025,Emma Walker,USA,North America,Desk,Furniture,1,314.32,0.1,282.89,200,82.89,Debit Card,Marketplace
+ORD-100978,24/05/2025,Avery Young,Canada,North America,Printer,Electronics,5,248.15,0,1240.75,750,490.75,PayPal,Online
+ORD-100979,14/06/2025,Sam Anderson,Canada,North America,Monitor,Electronics,2,406.45,0,812.9,560,252.9,Credit Card,Online
+ORD-100980,03/07/2025,Ethan Davis,Germany,Europe,Laptop,Electronics,2,828.91,0.2,1326.26,1200,126.26,Credit Card,Online
+ORD-100981,21/09/2025,Emma Hall,India,Asia,Headphones,Electronics,3,123.53,0,370.59,180,190.59,Credit Card,Online
+ORD-100982,04/01/2025,Taylor Young,USA,North America,Keyboard,Electronics,2,72.16,0.1,129.89,80,49.89,Debit Card,Retail Store
+ORD-100983,26/07/2025,Cameron Clark,UK,Europe,Monitor,Electronics,2,407.22,0,814.44,560,254.44,Bank Transfer,Online
+ORD-100984,04/02/2025,Daniel Brown,Germany,Europe,Printer,Electronics,3,236.04,0.05,672.71,450,222.71,Debit Card,Online
+ORD-100985,24/02/2025,Liam Moore,Australia,Oceania,Office Chair,Furniture,2,272.32,0,544.64,340,204.64,Bank Transfer,Online
+ORD-100986,23/08/2025,Olivia Moore,India,Asia,Desk,Furniture,3,337.47,0,1012.41,600,412.41,Bank Transfer,Online
+ORD-100987,23/08/2025,Daniel Anderson,Nigeria,Africa,Keyboard,Electronics,1,80.73,0,80.73,40,40.73,PayPal,Online
+ORD-100988,09/05/2025,Morgan Wilson,Canada,North America,Headphones,Electronics,3,115.48,0,346.44,180,166.44,Credit Card,Marketplace
+ORD-100989,20/03/2025,Jamie Young,Kenya,Africa,Laptop,Electronics,1,872.17,0.05,828.56,600,228.56,Debit Card,Online
+ORD-100990,23/09/2025,Mia Hall,Kenya,Africa,Laptop,Electronics,1,907.43,0,907.43,600,307.43,PayPal,Retail Store
+ORD-100991,06/06/2025,Jamie Brown,Canada,North America,Keyboard,Electronics,1,78.01,0,78.01,40,38.01,Bank Transfer,Marketplace
+ORD-100992,05/04/2025,Daniel Anderson,Germany,Europe,Printer,Electronics,1,255.42,0,255.42,150,105.42,Debit Card,Retail Store
+ORD-100993,13/05/2025,Casey Clark,Australia,Oceania,Office Chair,Furniture,3,294.71,0.05,839.92,510,329.92,Credit Card,Online
+ORD-100994,16/09/2025,Cameron Martin,UK,Europe,Monitor,Electronics,2,449.33,0,898.66,560,338.66,Credit Card,Marketplace
+ORD-100995,16/07/2025,Drew Walker,Nigeria,Africa,Headphones,Electronics,3,120.84,0,362.52,180,182.52,Bank Transfer,Online
+ORD-100996,21/09/2025,Jordan Johnson,Nigeria,Africa,Printer,Electronics,3,236.55,0,709.65,450,259.65,Credit Card,Online
+ORD-100997,02/12/2025,Ethan Martin,UK,Europe,Keyboard,Electronics,2,78.42,0.1,141.16,80,61.16,Credit Card,Marketplace
+ORD-100998,06/09/2025,Jordan Moore,Australia,Oceania,Bookshelf,Furniture,1,182.78,0.1,164.5,110,54.5,Bank Transfer,Marketplace
+ORD-100999,16/08/2025,Drew Lewis,UK,Europe,Keyboard,Electronics,3,75.86,0.1,204.82,120,84.82,PayPal,Online
+ORD-101000,11/05/2025,Jordan Wilson,India,Asia,Keyboard,Electronics,3,78.52,0.05,223.78,120,103.78,Credit Card,Retail Store
