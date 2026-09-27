@@ -86,6 +86,10 @@ This project demonstrates practical skills including:
 - Interactive filtering
 - Data visualization
 
+## 📸 Dashboard Preview
+
+![E-Commerce Sales Dashboard](dashboard-preview.png)
+
 ## 📁 Project Structure
 
 ```text
